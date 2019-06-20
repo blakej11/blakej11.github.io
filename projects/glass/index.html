@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stained glass</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="layout.css">
+    <script src="https://cdn.jsdelivr.net/npm/p5@0.7.2/lib/p5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@0.7.2/lib/addons/p5.dom.min.js"></script>
+    <script src="sampler.js"></script>
+    <script src="pane.js"></script>
+    <script src="glass.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+  <body>
+    <div class="controls">
+      <div class="tooltip" id="upload">
+	<span class="tooltiptext">Load new image</span>
+      </div>
+      <div class="tooltip" id="original">
+	<span class="tooltiptext">Show original</span>
+      </div>
+      <div class="tooltip" id="restart">
+	<span class="tooltiptext">Restart</span>
+      </div>
+      <div class="tooltip" id="pause">
+	<span class="tooltiptext">Start/stop</span>
+      </div>
+      <div class="tooltip" id="finish">
+	<span class="tooltiptext">Finish</span>
+      </div>
+      <div class="tooltip" id="download">
+	<span class="tooltiptext">Save image</span>
+      </div>
+      <div class="tooltip" id="slider">
+	<span class="tooltiptext">Number of panes</span>
+      </div>
+    </div>
+    <div id="sketch"> </div>
+  </body>
+</html>

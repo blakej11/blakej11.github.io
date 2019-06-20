@@ -1,0 +1,75 @@
+body {
+	padding: 0;
+	color: white;
+	background: #202020;
+	width: 100%;
+}
+
+/* The canvas where the image is displayed */
+#sketch canvas {
+	margin: auto;
+	margin-bottom: 30px;
+	display: block;
+	width: 90%;
+}
+
+/* The control buttons */
+.controls {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.controls button {
+	margin: 12px;
+	margin-bottom: 5px;
+	padding: 10px 10px;
+	background-color: #202020;
+	border: 0px;
+	color: #c0c0c0;
+	font-size: 20px;
+}
+
+.controls button:hover {
+	cursor: pointer;
+	color: #8080ff;
+}
+
+/* The complexity slider */
+#slider {
+	margin: 12px;
+	margin-bottom: 5px;
+	padding: 15px 10px;
+}
+
+#slider input {
+	background-color: #202020;
+}
+
+/* Tooltip container */
+.tooltip {
+	position: relative;
+	display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+	visibility: hidden;
+	background-color: #202020;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+
+	position: absolute;
+	z-index: 1;
+
+	bottom: 75%;
+	left: 50%;
+	width: 120px;
+	margin-left: -60px; /* half of width */
+}
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
