@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
+td {
+  border-bottom: 0px;
+}
+
 table td + td {
-  border-left:1px solid #434343;
+  border-left: 1px solid #434343;
 }
 
