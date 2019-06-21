@@ -359,9 +359,7 @@ cream in the same dish!  Pretty remarkable.
 
 ------------------------------------------------------------------------
 ![](33-0709.jpg#center)
-### Course 15: "nudos sferificados de yogur con ficoide glaciale, alcaparras y beurre noir" <br />
-  ("Spherificated yogurt knots with ice plant, capers and black butter")
-
+### Course 15: "nudos sferificados de yogur con ficoide glaciale, alcaparras y beurre noir" ("Spherificated yogurt knots with ice plant, capers and black butter")
 
 Judging from the name, I'm guessing the "knots" use the same
 (mysterious) process as many of the other "spherical" dishes on the menu.
@@ -375,9 +373,7 @@ more crunch than flavor.
 
 ------------------------------------------------------------------------
 ![](34-0710.jpg#center)
-### Course 16: "&ntilde;oquis sf&eacute;ricos de patata con consom&eacute; de piel de patata asada" <br />
-  ("Spherical potato gnocchi with consomm&eacute; of roasted potato skin")
-
+### Course 16: "&ntilde;oquis sf&eacute;ricos de patata con consom&eacute; de piel de patata asada" ("Spherical potato gnocchi with consomm&eacute; of roasted potato skin")
 
 This also came with whipped cream and two "butter ravioli", which you
 can see peeking out from each dollop of cream.  We were instructed that the
@@ -396,8 +392,7 @@ The best baked potato in the universe.
 
 ------------------------------------------------------------------------
 ![](35-0711.jpg#center)
-### Course 17: "alb&oacute;ndigas de habitas con jugo y flor de haba" <br />
-  ("Meatballs of little favas with juice and flower of fava")
+### Course 17: "alb&oacute;ndigas de habitas con jugo y flor de haba" ("Meatballs of little favas with juice and flower of fava")
 
 Could also be called "fava beans five ways".  Included plain favas,
 plus their puree, foam, juice, and flowers.  The plain fava beans were
@@ -416,8 +411,7 @@ hedonist."
 
 ------------------------------------------------------------------------
 ![](36-0712.jpg#center)
-### Course 18: "ravioli de malta con mantequilla, erizos y lima" <br />
-  ("Malt ravioli with butter, sea urchin and lime")
+### Course 18: "ravioli de malta con mantequilla, erizos y lima" ("Malt ravioli with butter, sea urchin and lime")
 
 Ravioli made of malt (the black stuff), filled with warm liquid butter
 and grains of salt, and topped with sea urchin, lime zest, and lime juice.
@@ -437,8 +431,7 @@ courses are just starting to arrive!
 
 ------------------------------------------------------------------------
 ![](38-0714.jpg#center)
-### My course 19: "esparragos blancos al aceite de oliva"
-  ("White asparagus with olive oil")
+### My course 19: "esparragos blancos al aceite de oliva" ("White asparagus with olive oil")
 
 This is another place where our menus diverged, so I'm guessing at the
 dish's title, and I didn't even do a very good job of figuring out what was
@@ -454,8 +447,7 @@ components.
 The "egg", after piercing with a spoon.
 
 ![](40-0715.jpg#center)
-### Rachel's course 19: "mejillones de roca con 'gargillou' de algas" <br />
-  ("Rock mussels with 'gargillou' of seaweed")
+### Rachel's course 19: "mejillones de roca con 'gargillou' de algas" ("Rock mussels with 'gargillou' of seaweed")
 
 Mussels wrapped in tangy "ravioli", with seawater juice and some
 oceanic/"fines herbes" herbs.  Rachel thought the tanginess and the oceanic
@@ -463,8 +455,7 @@ flavors were just weird together.
 
 ------------------------------------------------------------------------
 ![](41-0717.jpg#center)
-### Course 20: "ventresca de caballa en aceite" <br />
-  ("belly of mackerel in oil")
+### Course 20: "ventresca de caballa en aceite" ("belly of mackerel in oil")
 
 Mackerel in escabeche.  It didn't seem particularly inventive (though
 maybe my tired palate was missing something), but it was definitely a nice
@@ -473,8 +464,7 @@ it came with tiny pearl-like onions that somehow just tasted cold.
 
 ------------------------------------------------------------------------
 ![](42-0718.jpg#center)
-### Course 21: "cigala con quinoa<sup>3</sup>" <br />
-  ("Norway lobster with quinoa<sup>3</sup>")
+### Course 21: "cigala con quinoa<sup>3</sup>" ("Norway lobster with quinoa<sup>3</sup>")
 
 Lobster and lobster essence with three kinds of quinoa: sprouted,
 toasted, and "mushy".  The first two are on a small square of a sweet
@@ -483,8 +473,7 @@ on the cigalas were tiny strips of fresh tarragon.
 
 ------------------------------------------------------------------------
 ![](43-0719.jpg#center)
-### My course 22: "sesos de cordero con erizo y algas" <br />
-  ("Lamb brains with sea urchin and seaweed")
+### My course 22: "sesos de cordero con erizo y algas" ("Lamb brains with sea urchin and seaweed")
 
 Okay, time for me to try something really weird.  I spent the first
 twenty years of my life as a very picky eater, so over the course of the
@@ -506,9 +495,7 @@ like the seaweed and sea urchin.  The sea flavors were fine, but I didn't
 see how they enhanced the brain experience.
 
 ![](44-0720.jpg#center)
-### Rachel's course 22: "'rapets' con yema al lim&oacute;n,
-  margarita, aceite de pi&ntilde;on y mantequilla noisette" <br />
-  ("Monkfish with yolk of lemon, daisy, pine oil, and noisette butter)
+### Rachel's course 22: "'rapets' con yema al lim&oacute;n, margarita, aceite de pi&ntilde;on y mantequilla noisette" ("Monkfish with yolk of lemon, daisy, pine oil, and noisette butter)
 
 Monkfish with citrus butter and some big fat round capers.  Rachel's
 only comment: "Brilliant."
@@ -527,8 +514,7 @@ flavor from the line of lavender powder across the top.  It's like a French
 (souffle-like) omelette crossed with a creme brulee.
 
 ![](46-0724.jpg#center)
-### My course 23: "sopa de hierbas y especias con tofu thai" <br />
-  ("Soup of herbs and spices with Thai tofu")
+### My course 23: "sopa de hierbas y especias con tofu thai" ("Soup of herbs and spices with Thai tofu")
 
 An aromatic herbal soup with cubes of what tasted like coconut cream,
 grapefruit, and mint leaves.  It was rather disorienting as a dessert,
@@ -548,8 +534,7 @@ this point of the meal.
 
 ------------------------------------------------------------------------
 ![](48-0727.jpg#center)
-### Course 25: "helado de lima con platano y crujiente de
-  guisantes" <br /> ("Lime gelato with banana and crunchified peas")
+### Course 25: "helado de lima con platano y crujiente de guisantes" ("Lime gelato with banana and crunchified peas")
 
 This looks like several desserts I've seen in the elBulli 98-02
 cookbook: a dessert most easily described just by the handful of flavors
