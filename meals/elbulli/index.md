@@ -27,6 +27,7 @@ Roses, and we got a taxi to take us from Roses over to Cala Montjoi.  This
 let me take a few pictures of the view on the way:
 
 ![](02-0669.jpg#center)
+
 ![](03-0672.jpg#center)
 
 The windy road from Roses runs through the Parc Natural de Cap de
@@ -173,8 +174,7 @@ piece of aged Parmigiano-Reggiano does, but it had the right idea.
 
 ------------------------------------------------------------------------
 ![](15-0688.jpg#center)
-### Course 4: "oreo de oliva negra con crema agria"
-### ("Black olive Oreo with sour cream")
+### Course 4: "oreo de oliva negra con crema agria" ("Black olive Oreo with sour cream")
 
 Pretty amusing - it looks like an Oreo, but it tastes about as
 different from an Oreo as could be imagined.  The cookie was nicely flaky.
@@ -183,8 +183,7 @@ different from an Oreo as could be imagined.  The cookie was nicely flaky.
 ------------------------------------------------------------------------
 <a name="course5"></a>
 ![](16-0690.jpg#center)
-### Course 5: "lazos de remolacha con polvo de vinagre"
-### ("Beetroot bows with vinegar powder")
+### Course 5: "lazos de remolacha con polvo de vinagre" ("Beetroot bows with vinegar powder")
 
 A hard, translucent ribbon of beet "candy" with vinegar powder and salt.
 Melted slowly as it was eaten.  Great flavor balance between earthy, sour,
@@ -199,8 +198,7 @@ red powder.
 
 ------------------------------------------------------------------------
 ![](18-0687.jpg#center)
-### Course 7 for Rachel (left side of picture): "piel de lenguado planchada al ajo y perejil" <br />
-  ("Grilled skin of sole with garlic and parsley")
+### Course 7 for Rachel (left side of picture): "piel de lenguado planchada al ajo y perejil" ("Grilled skin of sole with garlic and parsley")
 ### Course 7 for me (right side of picture): "arlette iberico"
 
 Crostini without bread, perhaps.  Rachel's was made of crispy fish
@@ -221,8 +219,7 @@ to [eGullet](https://egullet.org), and hoping I'm getting the
 right thing.  The descriptions are all Rachel's and my own, though.
 
 ------------------------------------------------------------------------
-### Course 8 (unpictured): "caramelo de aceite de calabaza"
-  ("Caramel of pumpkin-seed oil")
+### Course 8 (unpictured): "caramelo de aceite de calabaza" ("Caramel of pumpkin-seed oil")
 
 This is the only one I didn't have a picture of, because they brought
 them out and encouraged us to take them and eat them immediately.  It's a
@@ -248,9 +245,7 @@ The second picture shows a little more of the insides of the roll.
 ------------------------------------------------------------------------
 ![](21-0693.jpg#center)
 ![](22-0695.jpg#center)
-### Course 10: "caviar sf&eacute;rico de mel&oacute;n"
-  ("Spherical melon caviar")
-
+### Course 10: "caviar sf&eacute;rico de mel&oacute;n" ("Spherical melon caviar")
 
 This dish has gotten a fair bit of publicity over the past few years,
 and I had a version of it at a restaurant called Antidote in the SF Bay
@@ -262,7 +257,6 @@ beside herself with glee, as they're a lot of fun to eat, and she likes
 anything with passion fruit (as do I).
 
 For perspective, the tin is probably two or three inches in diameter.
-
 
 ------------------------------------------------------------------------
 ![](23-0698.jpg#center)
@@ -294,6 +288,7 @@ the first to move inside.  Here's what the dining room looked like before
 it filled up with people:
 
 ![](25-0701.jpg#center)
+
 ![](26-0702.jpg#center)
 
 The roses were interesting.  The waitstaff took the rose away (for
@@ -305,8 +300,7 @@ did they remove some of them?
 
 ------------------------------------------------------------------------
 ![](28-0703.jpg#center)
-### Course 12: "pasi&oacute;n por la aceituna"
-  ("Passion for the olive")
+### Course 12: "pasi&oacute;n por la aceituna" ("Passion for the olive")
 
 A green olive puree/soup with passion fruit seeds and olive foam.  The
 green olive flavor was strikingly strong and pure, but the passion fruit
