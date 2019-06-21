@@ -1,3 +1,7 @@
+---
+image: twelve.png
+---
+
 ## Fifty Ways to Draw a Circle
 
 Earlier this year I was looking around for project ideas that could use
