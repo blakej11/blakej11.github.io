@@ -1,5 +1,7 @@
 ## Projects
 
+Some generative art projects that I've worked on.
+
 | | |
 |:---:|:---:|
 | [![](projects/50-circles/icon.png)](projects/50-circles/) | [![](projects/glass/icon.png)](projects/glass/) |
