@@ -43,9 +43,10 @@ individual circle could be pretty quick, so I got to see incremental
 progress all the time.  And I could decide to stop whenever I wanted; for
 me, fifty circles seemed like a good number.
 
-So, without further ado, here are my results.  Clicking on any image will
-give an enlarged version with more detail.  All of the source code is
-available on [Github](https://github.com/blakej11/50-circles).
+So, without further ado, here are the results.  There's one image for each
+style of circle, showing four examples of that style.  Clicking on any
+image will give an enlarged version with more detail.  All of the source
+code is available on [Github](https://github.com/blakej11/50-circles).
 
 |     |
 |:---:|
