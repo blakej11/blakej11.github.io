@@ -51,36 +51,36 @@ moto is in a neighborhood where I wouldn't expect to find a restaurant:
 
 ![](moto/m-00-2431.neighborhood.jpg)
 
-<p> There were almost as many delivery trucks as cars.  It seemed perfectly
-safe, just a bit odd. </p>
+There were almost as many delivery trucks as cars.  It seemed perfectly
+safe, just a bit odd.
 
-<p> moto is in a row of three or four restaurants.  We originally poked our
-heads into <a href="https://web.archive.org/web/20071025095021/http://www.otomrestaurant.com/">otom</a>, thinking that
-moto was just the sort of place that might have a sign with the name of
-their restaurant spelled backwards.  No, we were just being stupid; moto
-was a couple doors down.  (otom is a related restaurant, though --
-"the comforting counter&nbsp;point <!-- [sic] --> to the exciting
-gastronomic adventure of moto.") </p>
+moto is in a row of three or four restaurants.  We originally poked our
+heads into [otom](https://web.archive.org/web/20071025095021/http://www.otomrestaurant.com/),
+thinking that moto was just the sort of place that might have a sign with the
+name of their restaurant spelled backwards.  No, we were just being stupid;
+moto was a couple doors down.  (otom is a related restaurant, though -- "the
+comforting counter&nbsp;point <!-- [sic] --> to the exciting gastronomic
+adventure of moto.")
 
-<p> Here's a look from our table at the interior of moto: </p>
+Here's a look from our table at the interior of moto:
 
-<p class="img"><img width="683" height="512" src="moto/m-00-2434.interior.jpg"></p>
+![](moto/m-00-2434.interior.jpg)
 
-<p> Classy but subdued decor.  There was background music playing all
+Classy but subdued decor.  There was background music playing all
 night, a bit of an odd soundtrack ranging from bossa nova to rap.  We
 listened and chatted while our "menus were being prepared."  I've had
-special-meal menus before, but not like this: </p>
+special-meal menus before, but not like this:
 
-<p class="img"><img width="489" height="512" src="moto/m-00-2439.menu.jpg"></p>
+![](moto/m-00-2439.menu.jpg)
 
-<p> The menu was brought to each of us on a foot-long plate, with a tiny
+The menu was brought to each of us on a foot-long plate, with a tiny
 salad of potato cubes, corn, pine nuts, ch&egrave;vre, and microgreens on
 the side.  The waiter pointed out that the menus definitely had been
-printed especially for us: </p>
+printed especially for us:
 
-<p class="img"><img width="502" height="80" src="moto/m-00-2439.menu-closeup.jpg"></p>
+![](moto/m-00-2439.menu-closeup.jpg)
 
-<p> and, of course, the menu was edible.  The waiter said he'd give us some
+and, of course, the menu was edible.  The waiter said he'd give us some
 time to look over the menu, and he'd know we'd decided on our order once we
 started eating it.  We already knew that we were going for the GTM ("grand
 tour moto") -- I wasn't flying out from San Francisco to have an
@@ -90,35 +90,33 @@ a thin cracker, and the top layer (where the menu had been printed) was
 very, very salty.  Of course the point of an edible menu is to show that it
 can be done, not to reach a perfect flavor balance, so I didn't really care
 that it was so salty. I ended up nibbling mine down to the GTM section:
-</p>
 
-<p class="img"><img width="383" height="590" src="moto/m-00-2441.menu-close.jpg"></p>
 
-<p> and left it like this on the side of the table, so I could see what was
-coming. </p>
+![](moto/m-00-2441.menu-close.jpg)
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+and left it like this on the side of the table, so I could see what was
+coming.
+
+------------------------------------------------------------------------
 <a name="course1"></a>
-<p class="img"><img width="683" height="437" src="moto/m-01-2443.nitro-salmon.jpg"></p>
-<p class="c">Course 1: "Nitro sushi roll" </p>
+![](moto/m-01-2443.nitro-salmon.jpg)
+### Course 1: "Nitro sushi roll"
 
-<p> Our waiter referred to this as "sushi roll, deconstructed."  It had
+Our waiter referred to this as "sushi roll, deconstructed."  It had
 chunks of raw salmon on the bottom, a chip like an Indian papadam, nori
 powder, togarashi (five-spice powder), frozen sesame powder, and a stick of
 pickled something (ginger?).  I'm always a fan of salmon, especially in
 sushi, so I enjoyed this.  The flavors were like a spicy salmon roll
 -- something (maybe the togarashi?) added a lot of heat.  The sesame
 powder, which had been frozen with liquid nitrogen, provided an unexpected
-balance against the heat.  </p>
+balance against the heat.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course2"></a>
-<p class="img"><img width="683" height="512" src="moto/m-02-2449.italian-food.jpg"></p>
-<p class="c">Course 2: "Italian food" </p>
+![](moto/m-02-2449.italian-food.jpg)
+### Course 2: "Italian food"
 
-<p> A small, wide bowl with two soups: hot pizza soup and chilled Caesar
+A small, wide bowl with two soups: hot pizza soup and chilled Caesar
 salad soup.  The pizza soup was thick, spicy like the dried pepper flakes
 at a pizza parlor, and full of cheese and Italian sausage flavor.  The
 Caesar salad soup was thin, tasted of garlic, lettuce, and a bit of
@@ -127,23 +125,22 @@ whether the white stuff drizzled on top was the source of the "dressing"
 flavor.  Anyway, the flavors were remarkably true; this wasn't
 fancy-schmancy "Italian food," but good, hearty "Eye-talian-American" food.
 It was amazing how much of the pizza I could taste.  The cheekiness of the
-dish got big laughs from the table. </p>
+dish got big laughs from the table.
 
-<p> Jesse and Josh got the wine pairings with this meal, and for this
+Jesse and Josh got the wine pairings with this meal, and for this
 course they provided a little pour of a dark beer -- so we could have
-pizza and beer! </p>
+pizza and beer!
 
-<p class="img"><img width="683" height="512" src="moto/m-02-2446.beer.jpg"></p>
+![](moto/m-02-2446.beer.jpg)
 
-<p> This got another round of laughter. </p>
+This got another round of laughter.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course3"></a>
-<p class="img"><img width="683" height="512" src="moto/m-03-2451.beets.jpg"></p>
-<p class="c">Course 3: "Red/yellow beet cake" </p>
+![](moto/m-03-2451.beets.jpg)
+### Course 3: "Red/yellow beet cake"
 
-<p> This was introduced as a course which would have us enjoying beets,
+This was introduced as a course which would have us enjoying beets,
 even if we didn't like them growing up.  Jesse and Josh already like beets,
 and I think they're okay, so that wasn't a problem for us.  The dish was
 many forms of red and yellow beets.  On the left was the piece of beet
@@ -152,42 +149,39 @@ This was served with beet pur&eacute;es, pieces of raw beet, bacon, and
 basil.  You can barely make out the yellow beet pur&eacute;e in my
 low-light picture.  I enjoyed the unusual textures of beet by themselves,
 but the bacon and basil really made the dish -- they contrasted with
-the beet flavor nicely.  </p>
+the beet flavor nicely.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course4"></a>
-<p class="img"><img width="683" height="512" src="moto/m-04-2457.ginger-ale.jpg"></p>
-<p class="c">Course 4: "Ginger beer fizz" </p>
+![](moto/m-04-2457.ginger-ale.jpg)
+### Course 4: "Ginger beer fizz"
 
-<p> We were presented with wine glasses with a bit of ginger syrup at the
+We were presented with wine glasses with a bit of ginger syrup at the
 bottom of each.  The waiter then took a syringe filled with a light
 sarsaparilla solution and squirted the contents forcefully into each glass.
 This produced a nice head of foam on the drink, though when we drank it,
 the drink itself was confusingly not fizzy.  It was light, a bit tangy,
 sweet but not too sweet; it also had what appeared to be little vanilla
-flecks swimming throughout it. </p>
+flecks swimming throughout it.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course5"></a>
-<p class="img"><img width="683" height="512" src="moto/m-05-2460.goat-cheese.jpg"></p>
-<p class="c">Course 5: "Goat cheese snow" </p>
+![](moto/m-05-2460.goat-cheese.jpg)
+### Course 5: "Goat cheese snow"
 
-<p> Goat cheese which had been melted and then frozen in liquid nitrogen.
+Goat cheese which had been melted and then frozen in liquid nitrogen.
 It was served with basil oil, so it ended up tasting like a nice pesto.
 The "snow" was crumbly and cold, and melted to a very thin liquid in the
 mouth; in texture it reminded me of the pine nut cheese that was part of
-the <a href="../elbulli/index.html#course14">deshielo 2005</a>
-that I had at elBulli. </p>
+the [deshielo 2005](../elbulli/index.html#course14)
+that I had at elBulli.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course6"></a>
-<p class="img"><img width="633" height="512" src="moto/m-06-2468.apple.jpg"></p>
-<p class="c">Course 6: "Caramel apple with bacon" </p>
+![](moto/m-06-2468.apple.jpg)
+### Course 6: "Caramel apple with bacon"
 
-<p> A half of a baked Gala apple, which had been partially hollowed out and
+A half of a baked Gala apple, which had been partially hollowed out and
 filled with caramel, peanuts, bacon, and applesauce made from the apple.
 The streak on the "plate" is also applesauce.  The silverware for eating
 the apple is specially designed to hold a sprig of sage; the scent of the
@@ -199,62 +193,58 @@ sticking the sage end of the spoon undecorously under my nose while eating
 forkfuls of the apple, but I didn't really mind because I thought the sage
 added to the dish.  I really liked the flavor combinations -- a
 gourmet caramel apple, balanced by the salt and depth of the bacon, and
-lifted a bit by the sage. </p>
+lifted a bit by the sage.
 
-<p> When the waiters brought the dish out, they mentioned something in
+When the waiters brought the dish out, they mentioned something in
 passing about "battleship plates."  It took me a bit to understand what
-they were talking about, but then it was obvious: </p>
+they were talking about, but then it was obvious:
 
-<p class="img"><img width="683" height="512" src="moto/m-06-2463.plates.jpg"></p>
+![](moto/m-06-2463.plates.jpg)
 
-<p> Oh, of course, <a
-href="https://www.boardgamegeek.com/game/2425">Battleship</a> plates! </p>
+Oh, of course, [Battleship](https://www.boardgamegeek.com/game/2425) plates!
 
-<p class="img"><img width="300" height="400" src="moto/m-06-2469.spoon.jpg"></p>
+![](moto/m-06-2469.spoon.jpg)
 
-<p> A closeup of the spoon.  The "screwy" side ended in a metal peg, which
-plugged into a hole in the back of the "plate." </p>
+A closeup of the spoon.  The "screwy" side ended in a metal peg, which
+plugged into a hole in the back of the "plate."
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course7"></a>
-<p class="img"><img width="492" height="457" src="moto/m-07-2470.briquettes.jpg"></p>
+![](moto/m-07-2470.briquettes.jpg)
 
-<p> Before the next course, a plate holding what appeared to be charcoal
+Before the next course, a plate holding what appeared to be charcoal
 briquettes was brought to the table.  The briquettes had been frozen in
 liquid nitrogen (giving them a white/black mottling), and the plate they
 were sitting on had a thin layer of high-proof alcohol which was
 flamb&eacute;ed by the waiter.  They were left to sit for several courses,
-without explanation. </p>
+without explanation.
 
-<p class="img"><img width="653" height="512" src="moto/m-07-2472.greek-salad.jpg"></p>
-<p class="c">Course 7: "Greek salad" </p>
+![](moto/m-07-2472.greek-salad.jpg)
+### Course 7: "Greek salad"
 
-<p> The real seventh course was a tiny consomm&eacute; of cucumber, tomato,
+The real seventh course was a tiny consomm&eacute; of cucumber, tomato,
 red onion, and oregano, with a dot of extra-virgin olive oil.  Greek salad
 is usually pretty strong, but this was mild enough to be a nice one-swallow
 palate cleanser.  All the flavors shone through, despite the unassuming
-appearance of the soup. </p>
+appearance of the soup.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course8"></a>
-<p class="img"><img width="683" height="406" src="moto/m-08-2477.bouillabaise.jpg"></p>
-<p class="c">Course 8: "Bouillabaisse" </p>
+![](moto/m-08-2477.bouillabaise.jpg)
+### Course 8: "Bouillabaisse"
 
-<p> A rich, salty saffron broth, with a long saffron "tuile," New Zealand
+A rich, salty saffron broth, with a long saffron "tuile," New Zealand
 cockles, and Prince Edward Island mussels.  The "tuile" was actually like a
 long, thin, fishy pork rind; it didn't seem very strongly saffron-flavored.
 The wine paired with this one was quite dry, which was a welcome complement
-to the richness and saltiness. </p>
+to the richness and saltiness.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course9"></a>
-<p class="img"><img width="683" height="402" src="moto/m-09-2479.hamachi.jpg"></p>
-<p class="c">Course 9: "Hamachi &amp; gumbo" </p>
+![](moto/m-09-2479.hamachi.jpg)
+### Course 9: "Hamachi &amp; gumbo"
 
-<p> A piece of hamachi (yellowtail fish) that had been rubbed with spices
+A piece of hamachi (yellowtail fish) that had been rubbed with spices
 and set on a ceramic grate, served with a gumbo with abalone mushrooms.
 The grate had been pre-cooled in liquid nitrogen, so it left white "grill
 marks" on the fish when you picked the fish up!  Moreover, the parts of the
@@ -262,92 +252,86 @@ fish that had touched the "grill" made the fish feel more flaky and
 cooked-textured, contrasting with the nearly sushi-like smoothness
 elsewhere.  (The fish wasn't actually raw, but had been cooked in warm
 olive oil.)  The gumbo was rich, fishy, sweet, quite spicy, and had a
-strong paprika flavor. </p>
+strong paprika flavor.
 
-<p> I was really impressed by this course: the technical cleverness which
+I was really impressed by this course: the technical cleverness which
 showed off an unexpected effect, the beautiful tenderness of the fish, and
-and the well-balanced pairing of the fish with the soup. </p>
+and the well-balanced pairing of the fish with the soup.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course10"></a>
-<p class="img"><img width="683" height="449" src="moto/m-10-2484.avocado.jpg"></p>
-<p class="c">Course 10: "Jalapeno &amp; lime" </p>
+![](moto/m-10-2484.avocado.jpg)
+### Course 10: "Jalapeno &amp; lime"
 
-<p> A scoop of jalape&ntilde;o ice cream, cubes of avocado, toasted quinoa,
+A scoop of jalape&ntilde;o ice cream, cubes of avocado, toasted quinoa,
 and a tequila-lime margarita sauce.  I thought it was okay; Josh said it
 was his least favorite dish of the evening.  I don't think any of us would
-have thought of "margarita" if it hadn't been mentioned. </p>
+have thought of "margarita" if it hadn't been mentioned.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
-<p class="img"><img width="486" height="648" src="moto/m-00-j1606.menu-lying.jpg"></p>
+------------------------------------------------------------------------
+![](moto/m-00-j1606.menu-lying.jpg)
 
-<p> The restaurant, which was empty when we arrived for our 6:00 PM
+The restaurant, which was empty when we arrived for our 6:00 PM
 reservation, was mostly full by this point.  Luckily, we weren't full at
 all yet, because we were only half done with the meal.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course11"></a>
-<p class="img"><img width="683" height="512" src="moto/m-11-2487.bbq-pork.jpg"></p>
-<p class="c">Course 11: "BBQ pork with the fixin's" </p>
+![](moto/m-11-2487.bbq-pork.jpg)
+### Course 11: "BBQ pork with the fixin's"
 
-<p> The identity of the "charcoal briquettes" was revealed.  They were
+The identity of the "charcoal briquettes" was revealed.  They were
 rough-cut pieces of high-gluten Pullman bread, dipped in squid ink, toasted
 in olive oil, then frozen in liquid nitrogen.  The waiter took two
 "briquettes" and added them to each person's plate, which had a piece of
 very tender pork, Kansas City-style barbecue sauce, and Pullman bread
 pur&eacute;e.  This was another marvel.  The pork was fall-off-the-bone
 tender, but didn't seem to actually have been barbecued.  (Maybe cooked
-<a href="https://en.wikipedia.org/wiki/Sous-vide">sous vide</a>?) The
+[sous vide](https://en.wikipedia.org/wiki/Sous-vide)?) The
 briquettes, which had a nice toasty texture, seemed to add grill flavor
 even though I knew it was squid ink.  My mouth and my eyes disagreed about
-what was going on, but my mouth won.  </p>
+what was going on, but my mouth won.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course12"></a>
-<p class="img"><img width="573" height="512" src="moto/m-12-2491.mac-cheese.jpg"></p>
-<p class="c">Course 12: "Quail &amp; white truffle" </p>
+![](moto/m-12-2491.mac-cheese.jpg)
+### Course 12: "Quail &amp; white truffle"
 
-<p> Despite the name, this was actually a take on macaroni and cheese.  The
+Despite the name, this was actually a take on macaroni and cheese.  The
 small, warm glass had a piece of quail meat at the bottom, some cooked and
 dehydrated macaroni, smoked cheddar pur&eacute;e, powdered truffle oil, and
 chives.  The macaroni were unexpectedly crispy (but not rock-hard like
 uncooked macaroni).  They played against the smooth, rich quail, the
 richness of the cheese, some mysterious spicy heat, and the fumes of the
 truffle oil brought out by the warmth of the glass.  It was some of the
-biggest-flavored "comfort food" I've ever had.  Damn fine. </p>
+biggest-flavored "comfort food" I've ever had.  Damn fine.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course13"></a>
-<p class="img"><img width="683" height="317" src="moto/m-13-2494.steak-eggs.jpg"></p>
-<p class="c">Course 13: "Steak &amp; eggs" </p>
+![](moto/m-13-2494.steak-eggs.jpg)
+### Course 13: "Steak &amp; eggs"
 
-<p> Deconstructed steak and eggs.  The cube on the left was steamed egg
+Deconstructed steak and eggs.  The cube on the left was steamed egg
 white.  The egg yolk had been softly cooked, mixed with pur&eacute;ed
 spinach, piped back into a hole in the middle, and topped with
 micro-arugula.  The slices in the middle were tender prime rib with a
 "smear" of shallot and mustard pur&eacute;e.  On the right was a "moto hash
-brown" in a puddle of heirloom tomato pur&eacute;e. </p>
+brown" in a puddle of heirloom tomato pur&eacute;e.
 
-<p> I'm not much of a steak person myself, much less steak-and-eggs, so
+I'm not much of a steak person myself, much less steak-and-eggs, so
 this didn't do a whole lot for me.  The tomato pur&eacute;e tasted nothing
-like ketchup, but was an intriguing alternative. </p>
+like ketchup, but was an intriguing alternative.
 
-<p class="img"><img width="648" height="486" src="moto/m-13-j1609.contemplation.jpg"></p>
+![](moto/m-13-j1609.contemplation.jpg)
 
-<p> Josh contemplates his steak and eggs. </p>
+Josh contemplates his steak and eggs.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course14"></a>
-<p class="img"><img width="683" height="444" src="moto/m-14-2501.co2-fruit.jpg"></p>
-<p class="c">Course 14: "CO<sub>2</sub> fruit" </p>
+![](moto/m-14-2501.co2-fruit.jpg)
+### Course 14: "CO<sub>2</sub> fruit"
 
-<p> A bunch of different things going on here.  Starting from the left,
+A bunch of different things going on here.  Starting from the left,
 there's a white rice "chip" with blackcurrant and butternut squash
 flavoring powder, a cinnamon-infused apple slice and a vanilla-infused
 asian pear slice underneath, chopped bits of black walnut, a cube of
@@ -362,9 +346,9 @@ Apparently they just cut up cubes of watermelon and pumped carbon dioxide
 into them, like how a water carbonation machine works.  Jesse mentioned
 that he was installing a home carbonation machine, and said he'd definitely
 have to try carbonating some watermelon.  This was one of his favorite
-dishes.  </p>
+dishes.
 
-<p> Our waiter had told us earlier in the meal that he was actually a cook
+Our waiter had told us earlier in the meal that he was actually a cook
 too.  Many of the waitstaff at moto are first and foremost cooks, who are
 assigned to do regular rotations working the front of the house.  As a
 result, he was able to tell us a lot about the dishes, and he pointed out
@@ -374,19 +358,18 @@ seen; I think his approach would be out of place in some restaurants, but
 it seems like a very natural thing when you put cooks out front.  It
 reminds me of what happens in my line of work (software development) when
 you send an engineer, rather than a salesman, to talk with a customer.  It
-can be great for both people, but you have to be ready for it. </p>
+can be great for both people, but you have to be ready for it.
 
-<p> I did ask him why he thought Chicago was a hot spot for molecular
+I did ask him why he thought Chicago was a hot spot for molecular
 gastronomy, and he agreed that Charlie Trotter probably had a lot to do
-with it.  So that's one hunch confirmed. </p>
+with it.  So that's one hunch confirmed.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course15"></a>
-<p class="img"><img width="599" height="512" src="moto/m-15-2515.cotton-candy.jpg"></p>
-<p class="c">Course 15: "3 cotton candy stages" </p>
+![](moto/m-15-2515.cotton-candy.jpg)
+### Course 15: "3 cotton candy stages"
 
-<p> Three unexpected forms of cotton candy.  The "paper" was completely
+Three unexpected forms of cotton candy.  The "paper" was completely
 edible, made using super-secret technology of course, and tasted vaguely
 but unmistakably like cotton candy.  The ball was made of white chocolate
 and nonpareils, and had a cold thin liquid center that tasted of cotton
@@ -396,53 +379,50 @@ second or so, and was quickly replaced by the flavor of white chocolate.
 described as "fried cotton candy and cotton candy powder."  I sure can't
 imagine frying any cotton candy I've ever seen, but whatever they did, it
 was a hit.  It was an instant State Fair flashback -- pure cotton
-candy flavor and a side of deep-fried deep fry. </p>
+candy flavor and a side of deep-fried deep fry.
 
-<p class="img"><img width="424" height="364" src="moto/m-15-j1623.threads.jpg"></p>
+![](moto/m-15-j1623.threads.jpg)
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course16"></a>
-<p class="img"><img width="574" height="431" src="moto/m-16-2517.pancakes-poured.jpg"></p>
-<p class="c">Course 16: "Flapjacks prepared tableside" </p>
+![](moto/m-16-2517.pancakes-poured.jpg)
+### Course 16: "Flapjacks prepared tableside"
 
-<p> We had been seeing a cold box get wheeled around all evening, and now
+We had been seeing a cold box get wheeled around all evening, and now
 it was our turn to see it close up.  It was cooled from the inside by
 liquid nitrogen (of course), and acted as a "griddle" on the top surface.
 Our waiter poured three nickel-sized puddles of cr&egrave;me anglaise onto
 the top of the box, waited a few seconds until they solidified, flipped the
 "flapjacks," waited a few more seconds for the second side to "cook" ...
-</p>
 
-<p class="img"><img width="620" height="393" src="moto/m-16-2519.pancakes-flipped.jpg"></p>
 
-<p> then picked each one up with a spatula and placed it quickly into a
+![](moto/m-16-2519.pancakes-flipped.jpg)
+
+then picked each one up with a spatula and placed it quickly into a
 waiting spoon.  The spoons had been prepared with a small puddle of rich
 maple syrup in each one.  Another interesting illustration of what liquid
 nitrogen can do -- the cr&egrave;me anglaise definitely had the
 texture of a (really cold) cooked pancake!  This seemed like a direct copy
-of the <a href="../elbulli/index.html#course26">Morphings</a>
+of the [Morphings](../elbulli/index.html#course26)
 that I had at elBulli, but adapted to play up the breakfast food aspect of
-the experience.  Lots of fun. </p>
+the experience.  Lots of fun.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course17"></a>
-<p class="img"><img width="683" height="512" src="moto/m-17-2521.carrot-cake.jpg"></p>
-<p class="c">Course 17: "Carrot cake" </p>
+![](moto/m-17-2521.carrot-cake.jpg)
+### Course 17: "Carrot cake"
 
-<p> Freshly made carrot cake, served in several different forms: soup (!),
+Freshly made carrot cake, served in several different forms: soup (!),
 a tuile, croutons, and cream.  All four forms were not just carroty, but
 carrot-cakey.  Since the croutons were made from carrot cake, they were
-very dense and chewy. </p>
+very dense and chewy.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course18"></a>
-<p class="img"><img width="615" height="449" src="moto/m-18-2526.chicago-dog.jpg"></p>
-<p class="c">Course 18: "Chicago dog" </p>
+![](moto/m-18-2526.chicago-dog.jpg)
+### Course 18: "Chicago dog"
 
-<p> By about this point in the meal, there was no question that we were
+By about this point in the meal, there was no question that we were
 getting full.  Jesse had been looking at the "Chicago dog" lurking at the
 end of the menu with a bit of indigestion; yes, things are different at
 moto, and maybe it makes sense to have a big hunk of hot dog and fixin's at
@@ -455,47 +435,43 @@ made from green tomato gelee, asian pear "horseradish," and lemon curd
 pattern on each side, adding to the realism.  The fruity flavors and the
 chill of the sorbet were nicely refreshing, while the experience of looking
 at what seemed to be a bit of aggressive street food and tasting refined
-fruitiness kept us off guard. <p>
+fruitiness kept us off guard.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course19"></a>
-<p class="img"><img width="683" height="512" src="moto/m-19-2533.pina-colada.jpg"></p>
-<p class="c">Course 19: "Pina colada forms" </p>
+![](moto/m-19-2533.pina-colada.jpg)
+### Course 19: "Pina colada forms"
 
-<p> Rum ice cream, coconut foam, toasted coconut, and pineapple powder.
-Pleasant, but the ice cream wasn't as rummy as I might have liked. </p>
+Rum ice cream, coconut foam, toasted coconut, and pineapple powder.
+Pleasant, but the ice cream wasn't as rummy as I might have liked.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
+------------------------------------------------------------------------
 <a name="course20"></a>
-<p class="img"><img width="635" height="442" src="moto/m-20-2539.nachos.jpg"></p>
-<p class="c">Course 20: "Chili-cheese nachos" </p>
+![](moto/m-20-2539.nachos.jpg)
+### Course 20: "Chili-cheese nachos"
 
-<p> We'd been looking at this one with as much trepidation as the "Chicago
+We'd been looking at this one with as much trepidation as the "Chicago
 dog," and again, we had nothing to worry about.  The "nacho" was a bit of
 sweetened corn tortilla; it was topped with chocolate "ground beef," "Pace
 picante sauce" of strawberries, and mango "cheese."  Another good round of
 laughs for this one.  The chocolate was strong and tasty, which normally I
 don't mind at all, but here it took away a bit from the rest of the dish,
-which was cool and light and refreshing. </p>
+which was cool and light and refreshing.
 
-<p> As "mignardises," we got some packing peanuts: </p>
+As "mignardises," we got some packing peanuts:
 
-<p class="img"><img width="683" height="512" src="moto/m-20-2540.peanuts.jpg"></p>
+![](moto/m-20-2540.peanuts.jpg)
 
-<p> These were a lot like the biodegradable packing peanuts, but made with
+These were a lot like the biodegradable packing peanuts, but made with
 vanilla cr&egrave;me anglaise and vanilla sugar.  I've never eaten one of
-the real peanuts, but I suspect this one was better than most. </p>
+the real peanuts, but I suspect this one was better than most.
 
-<!-- --------------------------------------------------------------- -->
-<hr>
-<p class="img"><img width="714" height="1230" src="moto/moto-menu.jpg"></p>
+------------------------------------------------------------------------
+![](moto/moto-menu.jpg)
 
-<p> Quite a meal.  We went back to the hotel full and beaming.  We played
+Quite a meal.  We went back to the hotel full and beaming.  We played
 tourist for a couple days, seeing the city by foot and by El, and sweating
 off the remains of our big meal in the hot and humid Chicago summer.  By
 Thursday evening we had walked enough, and were ready and excited for our
-trip to <a href="alinea.html">Alinea</a>.  </p>
+trip to [Alinea](alinea.html).
 
-</body></html>
