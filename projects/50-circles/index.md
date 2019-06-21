@@ -1,5 +1,5 @@
 ---
-image: projects/50-circles/twelve.png
+image: projects/50-circles/eight.png
 ---
 
 ## Fifty Ways to Draw a Circle
