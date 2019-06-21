@@ -1,3 +1,5 @@
+<link href="main.css" rel="stylesheet"></link>
+
 ## Projects
 
 Some generative art projects that I've worked on.

@@ -1,0 +1,8 @@
+/* For the tables on the main page only. */
+th, td {
+  border-bottom: 0px;
+}
+
+table td + td {
+  border-left: 1px solid #434343;
+}
