@@ -49,7 +49,7 @@ trying some of this wacky food.
 
 moto is in a neighborhood where I wouldn't expect to find a restaurant:
 
-![](moto/m-00-2431.neighborhood.jpg#center)
+![](m-00-2431.neighborhood.jpg#center)
 
 There were almost as many delivery trucks as cars.  It seemed perfectly
 safe, just a bit odd.
@@ -64,21 +64,21 @@ adventure of moto.")
 
 Here's a look from our table at the interior of moto:
 
-![](moto/m-00-2434.interior.jpg#center)
+![](m-00-2434.interior.jpg#center)
 
 Classy but subdued decor.  There was background music playing all
 night, a bit of an odd soundtrack ranging from bossa nova to rap.  We
 listened and chatted while our "menus were being prepared."  I've had
 special-meal menus before, but not like this:
 
-![](moto/m-00-2439.menu.jpg#center)
+![](m-00-2439.menu.jpg#center)
 
 The menu was brought to each of us on a foot-long plate, with a tiny
 salad of potato cubes, corn, pine nuts, ch&egrave;vre, and microgreens on
 the side.  The waiter pointed out that the menus definitely had been
 printed especially for us:
 
-![](moto/m-00-2439.menu-closeup.jpg#center)
+![](m-00-2439.menu-closeup.jpg#center)
 
 and, of course, the menu was edible.  The waiter said he'd give us some
 time to look over the menu, and he'd know we'd decided on our order once we
@@ -92,14 +92,14 @@ can be done, not to reach a perfect flavor balance, so I didn't really care
 that it was so salty. I ended up nibbling mine down to the GTM section:
 
 
-![](moto/m-00-2441.menu-close.jpg#center)
+![](m-00-2441.menu-close.jpg#center)
 
 and left it like this on the side of the table, so I could see what was
 coming.
 
 ------------------------------------------------------------------------
 <a name="course1"></a>
-![](moto/m-01-2443.nitro-salmon.jpg#center)
+![](m-01-2443.nitro-salmon.jpg#center)
 ### Course 1: "Nitro sushi roll"
 
 Our waiter referred to this as "sushi roll, deconstructed."  It had
@@ -113,7 +113,7 @@ balance against the heat.
 
 ------------------------------------------------------------------------
 <a name="course2"></a>
-![](moto/m-02-2449.italian-food.jpg#center)
+![](m-02-2449.italian-food.jpg#center)
 ### Course 2: "Italian food"
 
 A small, wide bowl with two soups: hot pizza soup and chilled Caesar
@@ -131,13 +131,13 @@ Jesse and Josh got the wine pairings with this meal, and for this
 course they provided a little pour of a dark beer -- so we could have
 pizza and beer!
 
-![](moto/m-02-2446.beer.jpg#center)
+![](m-02-2446.beer.jpg#center)
 
 This got another round of laughter.
 
 ------------------------------------------------------------------------
 <a name="course3"></a>
-![](moto/m-03-2451.beets.jpg#center)
+![](m-03-2451.beets.jpg#center)
 ### Course 3: "Red/yellow beet cake"
 
 This was introduced as a course which would have us enjoying beets,
@@ -153,7 +153,7 @@ the beet flavor nicely.
 
 ------------------------------------------------------------------------
 <a name="course4"></a>
-![](moto/m-04-2457.ginger-ale.jpg#center)
+![](m-04-2457.ginger-ale.jpg#center)
 ### Course 4: "Ginger beer fizz"
 
 We were presented with wine glasses with a bit of ginger syrup at the
@@ -166,7 +166,7 @@ flecks swimming throughout it.
 
 ------------------------------------------------------------------------
 <a name="course5"></a>
-![](moto/m-05-2460.goat-cheese.jpg#center)
+![](m-05-2460.goat-cheese.jpg#center)
 ### Course 5: "Goat cheese snow"
 
 Goat cheese which had been melted and then frozen in liquid nitrogen.
@@ -178,7 +178,7 @@ that I had at elBulli.
 
 ------------------------------------------------------------------------
 <a name="course6"></a>
-![](moto/m-06-2468.apple.jpg#center)
+![](m-06-2468.apple.jpg#center)
 ### Course 6: "Caramel apple with bacon"
 
 A half of a baked Gala apple, which had been partially hollowed out and
@@ -199,18 +199,18 @@ When the waiters brought the dish out, they mentioned something in
 passing about "battleship plates."  It took me a bit to understand what
 they were talking about, but then it was obvious:
 
-![](moto/m-06-2463.plates.jpg#center)
+![](m-06-2463.plates.jpg#center)
 
 Oh, of course, [Battleship](https://www.boardgamegeek.com/game/2425) plates!
 
-![](moto/m-06-2469.spoon.jpg#center)
+![](m-06-2469.spoon.jpg#center)
 
 A closeup of the spoon.  The "screwy" side ended in a metal peg, which
 plugged into a hole in the back of the "plate."
 
 ------------------------------------------------------------------------
 <a name="course7"></a>
-![](moto/m-07-2470.briquettes.jpg#center)
+![](m-07-2470.briquettes.jpg#center)
 
 Before the next course, a plate holding what appeared to be charcoal
 briquettes was brought to the table.  The briquettes had been frozen in
@@ -219,7 +219,7 @@ were sitting on had a thin layer of high-proof alcohol which was
 flamb&eacute;ed by the waiter.  They were left to sit for several courses,
 without explanation.
 
-![](moto/m-07-2472.greek-salad.jpg#center)
+![](m-07-2472.greek-salad.jpg#center)
 ### Course 7: "Greek salad"
 
 The real seventh course was a tiny consomm&eacute; of cucumber, tomato,
@@ -230,7 +230,7 @@ appearance of the soup.
 
 ------------------------------------------------------------------------
 <a name="course8"></a>
-![](moto/m-08-2477.bouillabaise.jpg#center)
+![](m-08-2477.bouillabaise.jpg#center)
 ### Course 8: "Bouillabaisse"
 
 A rich, salty saffron broth, with a long saffron "tuile," New Zealand
@@ -241,7 +241,7 @@ to the richness and saltiness.
 
 ------------------------------------------------------------------------
 <a name="course9"></a>
-![](moto/m-09-2479.hamachi.jpg#center)
+![](m-09-2479.hamachi.jpg#center)
 ### Course 9: "Hamachi &amp; gumbo"
 
 A piece of hamachi (yellowtail fish) that had been rubbed with spices
@@ -260,7 +260,7 @@ and the well-balanced pairing of the fish with the soup.
 
 ------------------------------------------------------------------------
 <a name="course10"></a>
-![](moto/m-10-2484.avocado.jpg#center)
+![](m-10-2484.avocado.jpg#center)
 ### Course 10: "Jalapeno &amp; lime"
 
 A scoop of jalape&ntilde;o ice cream, cubes of avocado, toasted quinoa,
@@ -269,7 +269,7 @@ was his least favorite dish of the evening.  I don't think any of us would
 have thought of "margarita" if it hadn't been mentioned.
 
 ------------------------------------------------------------------------
-![](moto/m-00-j1606.menu-lying.jpg#center)
+![](m-00-j1606.menu-lying.jpg#center)
 
 The restaurant, which was empty when we arrived for our 6:00 PM
 reservation, was mostly full by this point.  Luckily, we weren't full at
@@ -277,7 +277,7 @@ all yet, because we were only half done with the meal.
 
 ------------------------------------------------------------------------
 <a name="course11"></a>
-![](moto/m-11-2487.bbq-pork.jpg#center)
+![](m-11-2487.bbq-pork.jpg#center)
 ### Course 11: "BBQ pork with the fixin's"
 
 The identity of the "charcoal briquettes" was revealed.  They were
@@ -294,7 +294,7 @@ what was going on, but my mouth won.
 
 ------------------------------------------------------------------------
 <a name="course12"></a>
-![](moto/m-12-2491.mac-cheese.jpg#center)
+![](m-12-2491.mac-cheese.jpg#center)
 ### Course 12: "Quail &amp; white truffle"
 
 Despite the name, this was actually a take on macaroni and cheese.  The
@@ -308,7 +308,7 @@ biggest-flavored "comfort food" I've ever had.  Damn fine.
 
 ------------------------------------------------------------------------
 <a name="course13"></a>
-![](moto/m-13-2494.steak-eggs.jpg#center)
+![](m-13-2494.steak-eggs.jpg#center)
 ### Course 13: "Steak &amp; eggs"
 
 Deconstructed steak and eggs.  The cube on the left was steamed egg
@@ -322,13 +322,13 @@ I'm not much of a steak person myself, much less steak-and-eggs, so
 this didn't do a whole lot for me.  The tomato pur&eacute;e tasted nothing
 like ketchup, but was an intriguing alternative.
 
-![](moto/m-13-j1609.contemplation.jpg#center)
+![](m-13-j1609.contemplation.jpg#center)
 
 Josh contemplates his steak and eggs.
 
 ------------------------------------------------------------------------
 <a name="course14"></a>
-![](moto/m-14-2501.co2-fruit.jpg#center)
+![](m-14-2501.co2-fruit.jpg#center)
 ### Course 14: "CO<sub>2</sub> fruit"
 
 A bunch of different things going on here.  Starting from the left,
@@ -366,7 +366,7 @@ with it.  So that's one hunch confirmed.
 
 ------------------------------------------------------------------------
 <a name="course15"></a>
-![](moto/m-15-2515.cotton-candy.jpg#center)
+![](m-15-2515.cotton-candy.jpg#center)
 ### Course 15: "3 cotton candy stages"
 
 Three unexpected forms of cotton candy.  The "paper" was completely
@@ -381,11 +381,11 @@ imagine frying any cotton candy I've ever seen, but whatever they did, it
 was a hit.  It was an instant State Fair flashback -- pure cotton
 candy flavor and a side of deep-fried deep fry.
 
-![](moto/m-15-j1623.threads.jpg#center)
+![](m-15-j1623.threads.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course16"></a>
-![](moto/m-16-2517.pancakes-poured.jpg#center)
+![](m-16-2517.pancakes-poured.jpg#center)
 ### Course 16: "Flapjacks prepared tableside"
 
 We had been seeing a cold box get wheeled around all evening, and now
@@ -396,7 +396,7 @@ the top of the box, waited a few seconds until they solidified, flipped the
 "flapjacks," waited a few more seconds for the second side to "cook" ...
 
 
-![](moto/m-16-2519.pancakes-flipped.jpg#center)
+![](m-16-2519.pancakes-flipped.jpg#center)
 
 then picked each one up with a spatula and placed it quickly into a
 waiting spoon.  The spoons had been prepared with a small puddle of rich
@@ -409,7 +409,7 @@ the experience.  Lots of fun.
 
 ------------------------------------------------------------------------
 <a name="course17"></a>
-![](moto/m-17-2521.carrot-cake.jpg#center)
+![](m-17-2521.carrot-cake.jpg#center)
 ### Course 17: "Carrot cake"
 
 Freshly made carrot cake, served in several different forms: soup (!),
@@ -419,7 +419,7 @@ very dense and chewy.
 
 ------------------------------------------------------------------------
 <a name="course18"></a>
-![](moto/m-18-2526.chicago-dog.jpg#center)
+![](m-18-2526.chicago-dog.jpg#center)
 ### Course 18: "Chicago dog"
 
 By about this point in the meal, there was no question that we were
@@ -439,7 +439,7 @@ fruitiness kept us off guard.
 
 ------------------------------------------------------------------------
 <a name="course19"></a>
-![](moto/m-19-2533.pina-colada.jpg#center)
+![](m-19-2533.pina-colada.jpg#center)
 ### Course 19: "Pina colada forms"
 
 Rum ice cream, coconut foam, toasted coconut, and pineapple powder.
@@ -447,7 +447,7 @@ Pleasant, but the ice cream wasn't as rummy as I might have liked.
 
 ------------------------------------------------------------------------
 <a name="course20"></a>
-![](moto/m-20-2539.nachos.jpg#center)
+![](m-20-2539.nachos.jpg#center)
 ### Course 20: "Chili-cheese nachos"
 
 We'd been looking at this one with as much trepidation as the "Chicago
@@ -460,18 +460,18 @@ which was cool and light and refreshing.
 
 As "mignardises," we got some packing peanuts:
 
-![](moto/m-20-2540.peanuts.jpg#center)
+![](m-20-2540.peanuts.jpg#center)
 
 These were a lot like the biodegradable packing peanuts, but made with
 vanilla cr&egrave;me anglaise and vanilla sugar.  I've never eaten one of
 the real peanuts, but I suspect this one was better than most.
 
 ------------------------------------------------------------------------
-![](moto/moto-menu.jpg#center)
+![](moto-menu.jpg#center)
 
 Quite a meal.  We went back to the hotel full and beaming.  We played
 tourist for a couple days, seeing the city by foot and by El, and sweating
 off the remains of our big meal in the hot and humid Chicago summer.  By
 Thursday evening we had walked enough, and were ready and excited for our
-trip to [Alinea](alinea.html).
+trip to [Alinea](../alinea).
 

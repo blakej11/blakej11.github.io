@@ -3,7 +3,7 @@
 Alinea is in a more upscale part of town than moto, but that doesn't
 mean it's any easier to find.  Spot the world-class restaurant:
 
-![](alinea/a-00-2639.building.jpg#center)
+![](a-00-2639.building.jpg#center)
 
 If it hadn't been for the valet sign, or knowing the street address of
 the place, we would have had no idea it was here.  I guess if you don't
@@ -46,7 +46,7 @@ the side of the table: a pair of fresh cedar sprigs stuck into little metal
 holders, and a couple of key limes "shrink-wrapped" into plastic tubes.
 
 
-![](alinea/a-00-2714.decor.jpg#center)
+![](a-00-2714.decor.jpg#center)
 
 We sat silently, in anticipation.  Jesse channeled Morpheus from the
 Matrix, doing the "bring it on" gesture with a smirk on his face.  Before
@@ -58,12 +58,12 @@ long, the fun began.
 The first course started unexpectedly, with the presentation of what
 looked like a monocle for each of us:
 
-![](alinea/a-01-2715.monocle.jpg#center)
+![](a-01-2715.monocle.jpg#center)
 
 This turned out to be a silverware holder for part of the first course,
 which we were handed directly:
 
-![](alinea/a-01-2716.bowl.jpg#center)
+![](a-01-2716.bowl.jpg#center)
 ### Course 1: "Surf clam / nasturtium, cucumber, shallot"
 
 The bowl was unstable if set on the table with the fork mounted on it.
@@ -79,7 +79,7 @@ radish, but also played up the cucumber in the forkful.
 After we finished, they cleared the bowls, forks, and monocles, and
 brought out the silverware for the next course:
 
-![](alinea/a-01a-j1689.silverware.jpg#center)
+![](a-01a-j1689.silverware.jpg#center)
 
 They explained that they didn't want to cover up their gorgeous
 mahogany tables with tablecloths (who can blame them?), but of course they
@@ -94,7 +94,7 @@ sizes.
 
 ------------------------------------------------------------------------
 <a name="course2"></a>
-![](alinea/a-02-2718.ayu.jpg#center)
+![](a-02-2718.ayu.jpg#center)
 ### Course 2: "Ayu / watermelon, kombu, coriander"
 
 This dish made it very clear, as if it weren't already, that we were
@@ -126,7 +126,7 @@ though.
 
 ------------------------------------------------------------------------
 <a name="course3"></a>
-![](alinea/a-03-2722.ball.jpg#center)
+![](a-03-2722.ball.jpg#center)
 ### Course 3: "Apple / horseradish, celery"
 
 This was a bit hard to capture with my camera.  It was brought out in
@@ -146,18 +146,18 @@ eating at the time.  I fell behind on eating the bread, because I wanted to
 save space for everything else, so I can't say how well they paired &mdash;
 but they were tasty.  The butter was also something special:
 
-![](alinea/a-03a-2723.butter.jpg#center)
+![](a-03a-2723.butter.jpg#center)
 
 The yellow butter was churned in-house, and was topped with black salt;
 the white butter was a goat's milk butter from Quebec.  The goat's milk
 butter didn't taste as "goaty" as I might have expected, but that's
 probably a good thing.  Both were very soft.
 
-![](alinea/a-05a-j1702.tableside.jpg#center)
+![](a-05a-j1702.tableside.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course4"></a>
-![](alinea/a-04-2728.tomatoes.jpg#center)
+![](a-04-2728.tomatoes.jpg#center)
 ### Course 4: "Tomato / plum, sherry vinegar, hardwood smoke"
 
 We were apparently the first table to get this dish ever.  It's
@@ -167,7 +167,7 @@ yellow heirloom tomato on a spicy ketchup and hazelnut cream with
 Explorateur cheese.  A poached plum sat in the middle.  This was served on
 a pillow filled with smoke of applewood and peachwood:
 
-![](alinea/a-04-j1698.pillows.jpg#center)
+![](a-04-j1698.pillows.jpg#center)
 
 The pillows were cloth, with (I would guess) a plastic bag with a few
 holes inside.  The smoke leaked out of the inner bag slowly, and the weight
@@ -189,7 +189,7 @@ gave me a chance to think back over them and fill in the gaps in my memory.
 
 ------------------------------------------------------------------------
 <a name="course5"></a>
-![](alinea/a-05-2731.sardines.jpg#center)
+![](a-05-2731.sardines.jpg#center)
 ### Course 5: "Sardine / black olive, sundried tomato, arugula"
 
 This was a tiny "timbale" of baby Japanese sardines, dehydrated,
@@ -207,7 +207,7 @@ focused attention right on the little bite.
 
 ------------------------------------------------------------------------
 <a name="course6"></a>
-![](alinea/a-06-2737.shortribs.jpg#center)
+![](a-06-2737.shortribs.jpg#center)
 ### Course 6: "Short rib / Guinness, peanut, fried broccoli"
 
 This was another whirlwind of flavors and textures.  The brown square
@@ -222,7 +222,7 @@ giving richness.  It was fantastically good.
 
 ------------------------------------------------------------------------
 <a name="course7"></a>
-![](alinea/a-07-2742.raviolo.jpg#center)
+![](a-07-2742.raviolo.jpg#center)
 ### Course 7: "Black truffle / explosion, romaine, parmesan"
 
 A single raviolo, filled with black truffle "tea," topped with a
@@ -234,7 +234,7 @@ truffly goodness with an explosion of liquid.
 
 ------------------------------------------------------------------------
 <a name="course8"></a>
-![](alinea/a-08-2747.cylinder.jpg#center)
+![](a-08-2747.cylinder.jpg#center)
 ### Course 8: "Honeydew / Blis sherry vinegar, mint"
 
 A cylinder of mint tea gel&eacute;e, with a rolled-up slice of honeydew
@@ -251,14 +251,14 @@ Although the artificial lighting inside was good enough to make the
 transition subtle, the white balance on my camera sure picked up on it.  Oh
 well...
 
-![](alinea/a-09-j1709.side.jpg#center)
+![](a-09-j1709.side.jpg#center)
 ### Course 9: "Rhubarb / goat milk, beet, long peppercorn"
 
 Several different forms of rhubarb.  The first one had to be eaten very
 quickly, so I only got a blurry picture:
 
 <a name="course9beetball"></a>
-![](alinea/a-09-2748.ball.jpg#center)
+![](a-09-2748.ball.jpg#center)
 
 This was a ball of hot beet juice, in some thin wrapping, dropped into
 a glass of cold rhubarb juice.  It was to be taken as a single shot.  BAM!
@@ -268,7 +268,7 @@ mouthful.  Jesse said, "This gave me my first spine tingle of the night."
 
 As for the rest:
 
-![](alinea/a-09-2750.above.jpg#center)
+![](a-09-2750.above.jpg#center)
 
 Left to right, we had: a crunchy "fruit roll-up" of rhubarb, a slice of
 rhubarb soaked in gin, with a juniper berry on top; rhubarb foam with
@@ -282,11 +282,11 @@ though.
 
 This course probably had more odd "utensils" than any other:
 
-![](alinea/a-09-2755.empty.jpg#center)
+![](a-09-2755.empty.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course10"></a>
-![](alinea/a-10-2759.huckleberry.jpg#center)
+![](a-10-2759.huckleberry.jpg#center)
 ### Course 10: "Huckleberry / frozen and chewy, lemon, parsley"
 
 A piece of frozen huckleberry cake, with drops of lemon pur&eacute;e,
@@ -299,7 +299,7 @@ one in the previous dish, where it's much smaller than the bay leaf.
 
 ------------------------------------------------------------------------
 <a name="course11"></a>
-![](alinea/a-11-2762.jerky.jpg#center)
+![](a-11-2762.jerky.jpg#center)
 ### Course 11: "Tuna / candied and dried"
 
 A stick of "tuna jerky," coated in the seasonings it was "cured" with:
@@ -309,11 +309,11 @@ orange peel, and the pepper gave it plenty of heat.
 This was finger food, so they brought out hot, moist towels to clean
 off with afterwards:
 
-![](alinea/a-11-j1714.napkins.jpg#center)
+![](a-11-j1714.napkins.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course12"></a>
-![](alinea/a-12-2765.pineapple.jpg#center)
+![](a-12-2765.pineapple.jpg#center)
 ### Course 12: "Pineapple / bacon powder, black pepper"
 
 This was the tiniest course of all, about the size of a dime.
@@ -325,7 +325,7 @@ several minutes afterwards.
 
 ------------------------------------------------------------------------
 <a name="course13"></a>
-![](alinea/a-13-2766.lobster.jpg#center)
+![](a-13-2766.lobster.jpg#center)
 ### Course 13: "Lobster / sunchoke, orange, hyacinth vapor"
 
 One of the fancier plate arrangements of the evening.  The outer bowl
@@ -352,11 +352,11 @@ downright intoxicating.  It was almost too much to take in at once.
 
 Jesse said, "That dish reminded me of being high."
 
-![](alinea/a-13-j1718.spent.jpg#center)
+![](a-13-j1718.spent.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course14"></a>
-![](alinea/a-14-2772.potatoes.jpg#center)
+![](a-14-2772.potatoes.jpg#center)
 ### Course 14: "Hot potato / cold potato, black truffle, butter"
 
 A tiny bowl holding a cold pur&eacute;e of potato.  Just above the
@@ -376,7 +376,7 @@ classic, and was focused into a single gulp.
 
 ------------------------------------------------------------------------
 <a name="course15"></a>
-![](alinea/a-15-2775.lamb.jpg#center)
+![](a-15-2775.lamb.jpg#center)
 ### Course 15: "Lamb / peas, consomm&eacute;, morels"
 
 Several forms of lamb (tenderloin, consomm&eacute;) and peas (fresh,
@@ -389,7 +389,7 @@ but not as much as some of the other courses.
 
 ------------------------------------------------------------------------
 <a name="course16"></a>
-![](alinea/a-16-2780.custard.jpg#center)
+![](a-16-2780.custard.jpg#center)
 ### Course 16: "Blackberry / tobacco, smoked salt, oregano blossom"
 
 A cylinder of tobacco custard the size of two nickels, topped with a
@@ -410,16 +410,16 @@ After making sure that we were comfortable eating with chopsticks, he moved
 a metal cylinder and cedar sprig to the right of each place setting, and
 set a pair of wooden chopsticks on it.
 
-![](alinea/a-17-j1726.chopsticks.jpg#center)
+![](a-17-j1726.chopsticks.jpg#center)
 
 Here's Jesse anticipating the chopstickable goodness:
 
-![](alinea/a-17-2783.jesse.jpg#center)
+![](a-17-2783.jesse.jpg#center)
 
 A couple minutes later, an insistent and growing sizzle on a tray from
 the kitchen announced the next course.
 
-![](alinea/a-17-j1728.meat.jpg#center)
+![](a-17-j1728.meat.jpg#center)
 ### Course 17: "Kuroge Wagyu / matsutake, cedar branch aroma"
 
 A solid stonelike plank, coated with popping and sizzling hot oil, held
@@ -433,11 +433,11 @@ release the aroma from the cedar and let it interact with the flavor of the
 meat and mushrooms.  Here's what the plank looked like after the course was
 done:
 
-![](alinea/a-17-j1729.cedar.jpg#center)
+![](a-17-j1729.cedar.jpg#center)
 
 The plank didn't work as well for me as I think it was intended to.  The
 aroma wasn't nearly as strong as the [wood smoke](#course4) in course 4, or
-even the [sage utensils](moto.html#course6) at moto.  I didn't want to lean
+even the [sage utensils](../moto/#course6) at moto.  I didn't want to lean
 too close to get a whiff, because Jesse got hit by a couple spatters of
 oil, and he confirmed that it was as hot as it sounded.  Even without it,
 though, the course was fantastic.  Matsutake mushrooms have a definite
@@ -451,7 +451,7 @@ one's the madman."
 
 ------------------------------------------------------------------------
 <a name="course18"></a>
-![](alinea/a-18-2789.junsai.jpg#center)
+![](a-18-2789.junsai.jpg#center)
 ### Course 18: "Junsai / bonito, soy, mirin"
 
 After diligently wiping the spattered oil from the last course off
@@ -474,7 +474,7 @@ down my throat immediately.  Quite a fun experience.
 
 ------------------------------------------------------------------------
 <a name="course19"></a>
-![](alinea/a-19-2792.scarf.jpg#center)
+![](a-19-2792.scarf.jpg#center)
 ### Course 19: "Transparency / of raspberry, rose petal, yogurt"
 
 A "scarf" of rose and raspberry, sprinkled with yogurt powder.  The
@@ -489,7 +489,7 @@ about this one.
 
 ------------------------------------------------------------------------
 <a name="gift"></a>
-![](alinea/a-19a-j1735.puff.jpg#center)
+![](a-19a-j1735.puff.jpg#center)
 ### A gift from the chef: "Foie gras / spicy cinnamon, apple
 p&acirc;te de fruit"
 
@@ -502,7 +502,7 @@ fuckin' work of art."
 
 ------------------------------------------------------------------------
 <a name="course20"></a>
-![](alinea/a-20-2797.all.jpg#center)
+![](a-20-2797.all.jpg#center)
 ### Course 20: "Guava / avocado, brie, key lime juice"
 
 Dessert is definitely underway here, with this first of three raucous
@@ -530,13 +530,15 @@ the mouth.
 Jesse got macro-mode working on his camera by this point, and got a
 couple of beautiful close-ups:
 
-![](alinea/a-20-j1742.freddo.jpg#center)
-![](alinea/a-20-j1743.ball.jpg#center)
+![](a-20-j1742.freddo.jpg#center)
+
+![](a-20-j1743.ball.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course21"></a>
-![](alinea/a-21-j1746.wide.jpg#center)
-![](alinea/a-21-2802.full.jpg#center)
+![](a-21-j1746.wide.jpg#center)
+
+![](a-21-2802.full.jpg#center)
 ### Course 21: "Coconut / saffron, kiwi, cornmeal"
 
 Another exploration of sweet flavors.  A soft sheet of coconut
@@ -548,14 +550,14 @@ This was yet another amazing mix of texture and flavor contrasts; the cubes
 of cornmeal on top were wonderfully chewy.  The whole thing was
 toe-curlingly good.
 
-![](alinea/a-21-j1747.contemplation.jpg#center)
+![](a-21-j1747.contemplation.jpg#center)
 
 Here I am, trying to take it all in and wishing there had been just a
 bit more.
 
 ------------------------------------------------------------------------
 <a name="course22"></a>
-![](alinea/a-22-j1750.closeup.jpg#center)
+![](a-22-j1750.closeup.jpg#center)
 ### Course 22: "Licorice cake / muscovado sugar, orange, hyssop"
 
 The next course was a one-bite morsel served on an 
@@ -563,7 +565,7 @@ The next course was a one-bite morsel served on an
 This device put the food right at mouth level, which was the idea.  It was to
 be eaten without using hands; just stick it in the mouth and pull it off.
 
-![](alinea/a-22-2807.eating.jpg#center)
+![](a-22-2807.eating.jpg#center)
 
 The main "block" was a frozen licorice pur&eacute;e surrounded by
 licorice spun sugar.  Down the antenna from this were a cube of muscovado
@@ -575,7 +577,7 @@ the shardlike texture of the spun sugar.  Another very intense mouthful.
 
 ------------------------------------------------------------------------
 <a name="course23"></a>
-![](alinea/a-23-2809.full.jpg#center)
+![](a-23-2809.full.jpg#center)
 ### Course 23: "Chocolate / passionfruit, lemongrass, soy"
 
 An aggressive push into savory flavors.  The long brown "snake" was a
@@ -590,12 +592,13 @@ drop of the Ocumare ganache behind, though.
 
 Here are close-ups of the two ends of the ganache "snake":
 
-![](alinea/a-23-j1752.ice.jpg#center)
-![](alinea/a-23-j1751.sprig.jpg#center)
+![](a-23-j1752.ice.jpg#center)
+
+![](a-23-j1751.sprig.jpg#center)
 
 ------------------------------------------------------------------------
 <a name="course24"></a>
-![](alinea/a-24-2815.ball.jpg#center)
+![](a-24-2815.ball.jpg#center)
 ### Course 24: "Caramel / Meyer lemon, cinnamon perfume"
 
 A sweet note to finish on.  A preserved Meyer lemon, coated in caramel,
@@ -606,10 +609,10 @@ was &mdash; basically a gooey donut hole.
 Here's a broader view of the [squid](https://crucialdetail.com/collections/the-alinea-collection/products/squid">squid)
 it was served with:
 
-![](alinea/a-24-2813.full.jpg#center)
+![](a-24-2813.full.jpg#center)
 
 ------------------------------------------------------------------------
-![](alinea/alinea-menu.jpg#center)
+![](alinea-menu.jpg#center)
 
 And here's the menu that we received at the end of the meal.  The
 circles aren't just decoration; they actually add quite a bit of
@@ -637,7 +640,7 @@ me.  Life is wonderful.
 
 ## Conclusion
 
-I'm really glad I had both this meal and the one at [moto](moto.html).
+I'm really glad I had both this meal and the one at [moto](../moto).
 
 Both restaurants demonstrated a wide range of new sensory experiences:
 temperature contrast, nontraditional "cooking," use of aroma, and new forms
