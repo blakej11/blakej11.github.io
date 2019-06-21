@@ -11,6 +11,7 @@ table td + td {
   border-left: 1px solid #434343;
 }
 
+/* from https://www.xaprb.com/blog/how-to-style-images-with-markdown/ */
 img[src*="#center"] {
   display: block;
   margin-left: auto;
