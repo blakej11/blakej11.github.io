@@ -9,6 +9,10 @@
 
 ## Meals
 
+Writeups of some amazing meals I've had. These are from several years ago,
+since I'm not so much into making public writeups of meals anymore, but
+creativity never goes out of style.
+
 | | | |
 |:---:|:---:|:---:|
 | [![](meals/chicago/alinea/icon.jpg)](meals/chicago/alinea.html) | [![](meals/chicago/moto/icon.jpg)](meals/chicago/moto.html) | [![](meals/elbulli/icon.jpg)](meals/elbulli/) |
