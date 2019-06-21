@@ -7,7 +7,7 @@ Some generative art projects that I've worked on.
 | | |
 |:---:|:---:|
 | [![](projects/50-circles/icon.png)](projects/50-circles/) | [![](projects/glass/icon.png)](projects/glass/) |
-| [2019-06-19: Fifty Ways to Draw a Circle](projects/50-circles/) | [2019-01-31: Stained-glass window generator](projects/glass/) |
+| [2019-06-21: Fifty Ways to Draw a Circle](projects/50-circles/) | [2019-01-31: Stained-glass window generator](projects/glass/) |
 
 ---
 
