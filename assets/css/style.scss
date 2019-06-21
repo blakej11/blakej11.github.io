@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 
-td.vert {
+td {
   border-bottom: 0px;
 }
 
-table.vert td + td {
+table td + td {
   border-left: 1px solid #434343;
 }
 
