@@ -1,3 +1,9 @@
+---
+redirect_from:
+  - "/~blakej/elbulli/"
+  - "/~blakej/meals/elbulli/"
+---
+
 # Dinner at elBulli, May 25, 2005
 
 I had the great fortune to have dinner at [Restaurante

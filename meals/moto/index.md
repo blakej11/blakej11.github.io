@@ -1,3 +1,12 @@
+---
+redirect_from:
+  - "/~blakej/meals/chicago/"
+  - "/~blakej/meals/chicago/all.html"
+  - "/~blakej/meals/chicago/moto-intro.html"
+  - "/~blakej/meals/chicago/moto-first.html"
+  - "/~blakej/meals/chicago/moto-second.html"
+---
+
 # Dinner at moto, September 4, 2007
 
 ![](2705.chicago.jpg#center)

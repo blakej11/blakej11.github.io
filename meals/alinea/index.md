@@ -1,3 +1,10 @@
+---
+redirect_from:
+  - "/~blakej/meals/chicago/alinea-intro.html"
+  - "/~blakej/meals/chicago/alinea-first.html"
+  - "/~blakej/meals/chicago/alinea-second.html"
+---
+
 # Dinner at Alinea, September 6, 2007
 
 Alinea is in a more upscale part of town than moto, but that doesn't
