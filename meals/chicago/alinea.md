@@ -437,7 +437,7 @@ done:
 
 The plank didn't work as well for me as I think it was intended to.  The
 aroma wasn't nearly as strong as the [wood smoke](#course4) in course 4, or
-even the (sage utensils)[moto.html#course6] at moto.  I didn't want to lean
+even the [sage utensils](moto.html#course6) at moto.  I didn't want to lean
 too close to get a whiff, because Jesse got hit by a couple spatters of
 oil, and he confirmed that it was as hot as it sounded.  Even without it,
 though, the course was fantastic.  Matsutake mushrooms have a definite
@@ -675,7 +675,7 @@ intrigued throughout the meal.
 
 Alinea aimed for a five-star meal, and I think they delivered.  The
 waitstaff was calm, attentive, and fiendishly competent.  The plating
-showed a [French Laundry](https://www.frenchlaundry.com/")-level
+showed a [French Laundry](https://www.frenchlaundry.com/)-level
 attention to detail.  The courses showed a reverence for the "technological
 magic" that Nature has worked over millions of years of evolution, from the
 solitary blackberry to the sweet ayu.  (In contrast, moto's heavy use of
