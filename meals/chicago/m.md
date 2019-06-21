@@ -72,7 +72,9 @@ listened and chatted while our "menus were being prepared."  I've had
 special-meal menus before, but not like this:
 
 <p align="center">
+
 ![](moto/m-00-2439.menu.jpg)
+
 </p>
 
 The menu was brought to each of us on a foot-long plate, with a tiny
