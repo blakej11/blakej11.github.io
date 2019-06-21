@@ -2,7 +2,7 @@
 
 ## Projects
 
-Some generative art projects that I've worked on.
+Some generative art projects that I've made.
 
 | | |
 |:---:|:---:|
