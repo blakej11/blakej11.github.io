@@ -174,7 +174,7 @@ piece of aged Parmigiano-Reggiano does, but it had the right idea.
 ------------------------------------------------------------------------
 ![](15-0688.jpg#center)
 ### Course 4: "oreo de oliva negra con crema agria"
-  ("Black olive Oreo with sour cream")
+#### ("Black olive Oreo with sour cream")
 
 Pretty amusing - it looks like an Oreo, but it tastes about as
 different from an Oreo as could be imagined.  The cookie was nicely flaky.
@@ -184,7 +184,7 @@ different from an Oreo as could be imagined.  The cookie was nicely flaky.
 <a name="course5"></a>
 ![](16-0690.jpg#center)
 ### Course 5: "lazos de remolacha con polvo de vinagre"
-  ("Beetroot bows with vinegar powder")
+##### ("Beetroot bows with vinegar powder")
 
 A hard, translucent ribbon of beet "candy" with vinegar powder and salt.
 Melted slowly as it was eaten.  Great flavor balance between earthy, sour,
