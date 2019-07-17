@@ -1,4 +1,4 @@
-# A simple BZ reaction simulation
+# A simple BZ reaction simulation  
 
 ## Background
 
