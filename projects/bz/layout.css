@@ -1,0 +1,96 @@
+body {
+	padding: 0;
+	color: #e8e8e8;
+	background: #252525;
+	width: 100%;
+}
+
+/* The canvas where the image is displayed */
+#sketch canvas {
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	display: block;
+	width: 90%;
+}
+
+/* The control buttons */
+#controls {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#controls button {
+	margin: 12px;
+	margin-bottom: 5px;
+	padding: 7px 7px;
+	background-color: #252525;
+	border: 0px;
+	color: #c0c0c0;
+	font-size: 20px;
+}
+
+#controls button:hover {
+	cursor: pointer;
+	color: #8080ff;
+}
+
+/* Tooltip container */
+.tooltip {
+	position: relative;
+	display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+	visibility: hidden;
+	background-color: #252525;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+
+	position: absolute;
+	z-index: 1;
+
+	bottom: 80%;
+	left: 50%;
+	width: 120px;
+	margin-left: -60px; /* half of width */
+}
+
+/* Tooltip text when hovered over */
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
+
+/* The container for the sliders */
+#sliders {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+
+#slider {
+	margin: 12px;
+	margin-bottom: 5px;
+	padding: 15px 10px;
+}
+
+#slider input {
+	background-color: #404040;
+}
+
+.slider {
+	background-color: #252525;
+	color: white;
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+
+	margin-right: 5px;
+}
+
