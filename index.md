@@ -6,8 +6,8 @@ Some generative art projects that I've made.
 
 | | |
 |:---:|:---:|
-| [![](projects/50-circles/icon.png)](projects/50-circles/) | [![](projects/glass/icon.png)](projects/glass/) |
-| [2019-06-21: Fifty Ways to Draw a Circle](projects/50-circles/) | [2019-01-31: Stained-glass window generator](projects/glass/) |
+| [![](projects/bz/icon.png)](projects/bz/) | [![](projects/50-circles/icon.png)](projects/50-circles/) | [![](projects/glass/icon.png)](projects/glass/) |
+| [2019-07-17: BZ reaction simulator](projects/bz/) | [2019-06-21: Fifty Ways to Draw a Circle](projects/50-circles/) | [2019-01-31: Stained-glass window generator](projects/glass/) |
 
 ---
 
