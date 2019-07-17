@@ -5,3 +5,5 @@ theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-redirect-from
+
+include: README.md
