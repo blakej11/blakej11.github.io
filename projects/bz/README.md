@@ -94,3 +94,10 @@ Standard RGB computer graphics limits the number of reagents that can be
 visually displayed at any point in time to three, but adding more reagents
 can still show interesting effects.
 
+There are a lot more interesting directions this could be taken in. I
+haven't seen any time-step simulation using the Oregonator model, and I'd
+be curious to see how this one compares. I'd also like to trace the path of
+several pixels over time, and see if it actually has a chaotic attractor
+similar to what the original system has. And it would be great to find
+visually interesting ways of representing concentrations of more than three
+reagents. But the current thing just seemed worth creating on its own.
