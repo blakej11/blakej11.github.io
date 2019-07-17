@@ -8,7 +8,9 @@ discovery came from a mixture of chemicals that oscillated in color between
 yellow and clear. Other forms of the reaction that take place on a surface
 (such as in a Petri dish) spontaneously evolve moving spiral patterns.
 
-![](1971-spirals.jpg)
+<p align="center">
+  <img width="293" height="355" src="1971-spirals.jpg">
+</p>
 
 (Image from Zhabotinsky A. M. and Zaikin, A. N., _Spatial effects in a
 self-oscillating chemical system_, in Oscillatory processes in biological
