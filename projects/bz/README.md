@@ -1,5 +1,7 @@
 # A simple BZ reaction simulation  
 
+---
+
 ## Background
 
 The Belousov-Zhabotinsky (or "BZ") reaction is a non-organic chemical
@@ -24,7 +26,7 @@ called [the Oregonator](https://pdfs.semanticscholar.org/fa74/3e39198cfc0c58f46a
 reactions](https://pubs.acs.org/doi/abs/10.1021/j100381a039) that might be
 involved in the process.
 
-## Simple model
+## A simple model
 
 Much more recently, Alasdair Turner described a [very simple
 model](http://discovery.ucl.ac.uk/id/eprint/17241) of the reaction by
