@@ -104,10 +104,12 @@ function setup() {
     data_set((d) => { return (random(0.0, 1.0)); });
   });
 
-  Paused = new Toggle(false, 'play', 'Continue', 'pause', 'Pause');
+  Paused = new Toggle(false, 'pause', 'Pause', 'play', 'Continue');
 
-  Locked = new Toggle(false, 'lock-open', 'Unlock relative rates', 
-    'lock', 'Lock relative rates', Rates.lock.bind(Rates));
+  Locked = new Toggle(false,
+    'lock-open', 'Rates unlocked<br/>(click to lock together)',
+    'lock', 'Rates locked together<br/>(click to unlock)',
+    Rates.lock.bind(Rates));
 
   new Button('Add reagent', 'fa-plus-circle', () => {
     Rates.push();

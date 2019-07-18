@@ -30,11 +30,11 @@ class Toggle {
 
   setstate(state) {
     if (state) {
-      this.button.html('<i class="fas fa-' + this.ficon + '"></i>');
-      this.textdiv.html(this.ftext);
-    } else {
       this.button.html('<i class="fas fa-' + this.ticon + '"></i>');
       this.textdiv.html(this.ttext);
+    } else {
+      this.button.html('<i class="fas fa-' + this.ficon + '"></i>');
+      this.textdiv.html(this.ftext);
     }
 
     if (this.cb !== undefined) {
