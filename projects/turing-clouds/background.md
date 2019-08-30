@@ -106,8 +106,6 @@ system would look like if it were colored - or, for that matter, what it
 would even mean to try to add color to it.  One of the early attempts was
 vaguely reminiscent of a lava lamp:
 
-![](images/intro/color-lava.png#center)
-
 <iframe src="https://player.vimeo.com/video/356914126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 and that was fun, but ultimately not that satisfying.  Eventually, the
@@ -161,7 +159,7 @@ these objects inspired the name "Turing Clouds".
 
 Here's what the previous image looks like in heatmap mode:
 
-![](images/intro/color-render.png#center)
+![](images/intro/color-4d.png#center)
 
 The ravioli-like shapes from the color rendition are visible as films
 within the overall cloud of data.

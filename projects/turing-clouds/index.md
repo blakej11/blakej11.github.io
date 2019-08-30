@@ -26,7 +26,6 @@ Here are some videos of the system in action.
 <iframe src="https://player.vimeo.com/video/356922295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 &nbsp;
-&nbsp;
 
 ## Images
 
@@ -47,6 +46,8 @@ half-size [here](halfsize.html), and full size [here](fullsize.html).
 | [![](images/10/regular/0174796.png)](images/100/regular/0174796.png) | [![](images/10/regular/0220953.png)](images/100/regular/0220953.png) | [![](images/10/regular/0266840.png)](images/100/regular/0266840.png) | [![](images/10/regular/1092273.png)](images/100/regular/1092273.png) |
 | [![](images/10/regular/2284302.png)](images/100/regular/2284302.png) | | | |
 
+&nbsp;
+
 ### Black-and-white (multi-scale Turing patterns)
 
 | | |
@@ -54,6 +55,8 @@ half-size [here](halfsize.html), and full size [here](fullsize.html).
 | [![](images/10/bw/0006144.png)](images/100/bw/0006144.png) | [![](images/10/bw/0002184.png)](images/100/bw/0002184.png) |
 | [![](images/10/bw/0005131.png)](images/100/bw/0005131.png) | [![](images/10/bw/0007354.png)](images/100/bw/0007354.png) |
 | [![](images/10/bw/0016173.png)](images/100/bw/0016173.png) | | | |
+
+&nbsp;
 
 ### Heatmap visualization
 
@@ -66,8 +69,10 @@ half-size [here](halfsize.html), and full size [here](fullsize.html).
 | [![](images/10/4d/0002135.png)](images/100/4d/0002135.png) | [![](images/10/4d/0002134.png)](images/100/4d/0002134.png) |
 | [![](images/10/4d/0002399.png)](images/100/4d/0002399.png) | [![](images/10/4d/0002398.png)](images/100/4d/0002398.png) |
 | [![](images/10/4d/0002702.png)](images/100/4d/0002702.png) | [![](images/10/4d/0002701.png)](images/100/4d/0002701.png) |
-| [![](images/10/4d/0001284.png)](images/100/4d/0001284.png) | |
+| | [![](images/10/4d/0001284.png)](images/100/4d/0001284.png) |
 | | [![](images/10/4d/0019294.png)](images/100/4d/0019294.png) |
+
+&nbsp;
 
 ### Mouse interaction
 
