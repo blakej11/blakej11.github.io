@@ -17,6 +17,10 @@ But you might also just want to see what it does.
 
 Here are some videos of the system in action.
 
+The first three are different views of the same thing - starting the system
+with the random seed 14, and letting it evolve at 1440x720 resolution for 3600
+timesteps.
+
 <iframe src="https://player.vimeo.com/video/356804717" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 &nbsp;
@@ -27,7 +31,13 @@ Here are some videos of the system in action.
 
 <iframe src="https://player.vimeo.com/video/356807696" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+---
+
 &nbsp;
+
+The next three are also different views of the same thing - starting the system
+with the random seed 42, and letting it evolve at 1920x1080 resolution for 3600
+timesteps.
 
 <iframe src="https://player.vimeo.com/video/356922295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
