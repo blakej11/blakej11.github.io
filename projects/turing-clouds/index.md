@@ -4,9 +4,9 @@ image: projects/turing-clouds/clouds.png
 
 ## Turing clouds
 
-This is an adaptation of [Jonathan McCabe's multi-scale Turing
+This is my adaptation of [Jonathan McCabe's multi-scale Turing
 patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf)
-that adds smooth color, interactivity, a new visualization style, and
+which adds smooth color, interactivity, a new visualization style, and
 real-time rendering speed.
 
 I have a detailed description of [how it works](background.html), and you
@@ -17,17 +17,14 @@ But you might also just want to see what it does.
 
 Here are some videos of the system in action.
 
-720p, color rendering:
 <iframe src="https://player.vimeo.com/video/356804717" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-720p, corresponding 4-D data cloud:
 <iframe src="https://player.vimeo.com/video/356831760" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-720p, both versions together:
 <iframe src="https://player.vimeo.com/video/356807696" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-1080p, color rendering:
 <iframe src="https://player.vimeo.com/video/356922295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ## Images
 
