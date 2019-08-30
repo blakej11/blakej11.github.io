@@ -4,7 +4,7 @@
 These are some of the ideas and other systems that went into creating [Turing
 clouds](.).
 
-### Turing's original model
+### Alan Turing's original model
 
 After Alan Turing had [established the foundations of computer
 science](https://en.wikipedia.org/wiki/Turing%27s_proof) and
@@ -56,7 +56,7 @@ more cells contributing to the new value.  In the Turing reaction,
 activators and inhibitors diffuse at different rates, which corresponds to
 taking averages over different radii.
 
-To simulate the reaction, take the difference of the newly calculated
+To model the reaction, take the difference of the newly calculated
 averages from the activator and the inhibitor.  If the result is positive,
 increase the current cell's value slightly, and if it's negative, decrease
 the cell's value slightly.
@@ -132,7 +132,7 @@ decided to look for something new.
 
 I wound up creating a very straightforward extension of the multi-scale
 algorithm, where each cell has a vector of data rather than just a single
-value and the multi-scale algorithm is reinterpreted to use vector
+value, and the multi-scale algorithm is reinterpreted to use vector
 arithmetic.  This gave me a three-dimensional vector, contained within the
 unit sphere, that I could try to turn into a color.  But I was disappointed
 to find that I couldn't find a way to make those values look good, even
