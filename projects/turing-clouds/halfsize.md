@@ -93,9 +93,11 @@ data that generated it.
 
 [![](images/50/4d/0006230.png#center)](images/100/4d/0006230.png)
 [![](images/50/4d/0006229.png#center)](images/100/4d/0006229.png)
-
+---
 [![](images/50/4d/0013619.png#center)](images/100/4d/0013619.png)
 [![](images/50/4d/0013618.png#center)](images/100/4d/0013618.png)
+
+---
 
 [![](images/50/4d/0024478.png#center)](images/100/4d/0024478.png)
 [![](images/50/4d/0024480.png#center)](images/100/4d/0024480.png)
