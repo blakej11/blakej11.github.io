@@ -25,6 +25,10 @@ Here are some videos of the system in action.
 
 <iframe src="https://player.vimeo.com/video/356922295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<!-- 1080p 4D goes here -->
+
+<iframe src="https://player.vimeo.com/video/356932182" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 &nbsp;
 
 ## Images
