@@ -19,12 +19,12 @@ or spotted patterns, such as those you see on a zebra or a leopard.
 
 To get the basic intuition behind Turing's model, imagine a flat surface
 with two chemicals, an "activator" and an "inhibitor", diffusing across it
-at different rates.  You can imagine this taking place in the real world
-across the skin of a growing animal.  In locations where there is more of
-the activator than the inhibitor, the activator creates more of itself as
-well as more of the inhibitor, and it causes pigmentation (such as a black
-spot or a stripe).  In locations where there is more of the inhibitor than
-the activator, some of each is destroyed, and no color change happens.
+at different rates.  The real-world analogue of this would be something
+like the skin of a growing animal.  In locations where there is more of the
+activator than the inhibitor, the activator creates more of itself as well
+as more of the inhibitor, and it causes pigmentation, such as a black spot
+or a stripe.  In locations where there is more of the inhibitor than the
+activator, some of each is destroyed, and no color change happens.
 
 Turing showed that this simple interaction of chemicals should lead to
 regularly spaced patterns, with the details of the patterns depending on the
@@ -37,8 +37,9 @@ patterns](https://www.ncbi.nlm.nih.gov/pubmed/10041855) in a chemical system.
 
 In 2010, Jonathan McCabe wrote a
 [paper](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf)
-describing a simple way to simulate Turing's model on a computer, and a
-tweak to that model which led to startling visual patterns.
+describing a simple way to simulate Turing's model on a computer. The paper
+also described a tweak to that model which leads to startling visual
+patterns.
 
 The simulation follows the general format of a [reaction-diffusion
 system](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system).
@@ -63,15 +64,14 @@ the cell's value slightly.
 Once this has been done for all cells in the grid, the image can be
 generated.  Color each pixel in the image based on the corresponding cell's
 new value: a value of -1 yields a black pixel, +1 yields a white one, and
-anything in between uses the corresponding greyscale value.
-
-I generated a few example images of this kind of system:
+anything in between uses the corresponding greyscale value.  Here are a few
+examples of this kind of system:
 
 | | | |
 |:---:|:---:|:---:|
 | ![](images/intro/bw-2scale-1.png) | ![](images/intro/bw-2scale-2.png) | ![](images/intro/bw-2scale-3.png) |
 
-McCabe also suggested that one could simulate more than one of these
+McCabe also suggested that you could simulate more than one of these
 reactions on a given system at a time, using different radii for each
 reaction. If you do this, and you add the results together, you can get
 patterns that look like stripes made of spots. But he also observed that
@@ -92,15 +92,16 @@ I was captivated when I first discovered this system.  As with the
 visual complexity.  But this system would have been unusably slow to
 implement back in the days of
 [Fractint](https://en.wikipedia.org/wiki/Fractint).  A naive calculation of
-a single timestep takes an amount of time proportional to the image's width
-times its height times the square of the largest radius, and the largest
-radius can be a substantial fraction of the image's width or height.
+a single timestep takes an amount of time proportional to the image's
+width, times its height, times the square of the largest radius; and the
+largest radius can be a substantial fraction of the image's width or
+height.
 
 Even on a modern computer, this isn't a fast operation. The first
 implementation I found, which was in the reaction-diffusion modeling system
 [Ready](https://github.com/GollyGang/ready), only generated a few 512x512
-images per second on my laptop. It takes quite a while to see how the
-system evolves when it's going at that rate. So that got me to start
+images per second on my laptop. It takes quite a while to watch the system
+evolve when it's crawling along at that rate. So that got me to start
 writing my own implementation, first as a multi-threaded CPU-based program,
 then once again as a GPU client using OpenCL.
 
@@ -131,15 +132,15 @@ decided to look for something new.
 
 I wound up creating a very straightforward extension of the multi-scale
 algorithm, where each cell has a vector of data rather than just a single
-value, and the multi-scale algorithm uses vector arithmetic.  This gave me
-a three-dimensional vector, contained within the unit sphere, that I could
-try to turn into a color.  But I was disappointed to find that I couldn't
-find a way to make those values look good, even after converting into
-spherical coordinates which would fit the data more naturally.  The radius,
-which is the analogue of the single value used to generate black-and-white
-Turing patterns, was too visually dominant in the vector version to be
-compelling.  On the other hand, if I didn't use the radius, I'd only have
-two values to work with.
+value and the multi-scale algorithm is reinterpreted to use vector
+arithmetic.  This gave me a three-dimensional vector, contained within the
+unit sphere, that I could try to turn into a color.  But I was disappointed
+to find that I couldn't find a way to make those values look good, even
+after converting them into spherical coordinates which would fit the data
+more naturally.  The radius, which is the analogue of the single value used
+to generate black-and-white Turing patterns, was too visually dominant in
+the vector version to be compelling.  On the other hand, if I didn't use
+the radius, I'd only have two values to work with.
 
 So I tried four-dimensional vectors.  Although that gave me enough data to
 wander through a 3-D color space, I was still reluctant to discard the
@@ -152,10 +153,11 @@ the original pattern, and I stuck with it.  Here's an example:
 
 If you're curious exactly how the colors are generated from the 4-D data,
 the [code](https://github.com/blakej11/turing-clouds/tc/render.cl)
-describes it in detail. The brief description is that I convert the 4-D
-data point into hyperspherical coordinates, use the angles
-(&theta;<sub>1</sub>, &theta;<sub>2</sub>, and &phi;) to generate values
-between 0 and 1, and use those to set the
+describes it in detail. The summary is that I convert the 4-D data point
+into [hyperspherical
+coordinates](https://en.wikipedia.org/wiki/N-sphere#Spherical_coordinates),
+use the angles from that coordinate system to generate values between 0 and
+1, and use those to set the
 [HSV](https://en.wikipedia.org/wiki/HSL_and_HSV) values of the pixel.
 
 ### Visualizing the data directly
@@ -182,15 +184,15 @@ within the overall cloud of data.
 ### Interacting with the data
 
 During the development of my GPU-based implementation, I came across a
-paper by Aubrey Jaffer titled [Oseen Flow in Ink
-Marbling](https://arxiv.org/pdf/1702.02106v1.pdf).  It describes the
-dynamics of a system where a finite-length stroke is made within a liquid
-with some viscosity, such as what you might do when creating [ink marbling
+paper by Aubrey Jaffer titled "[Oseen Flow in Ink
+Marbling](https://arxiv.org/pdf/1702.02106v1.pdf)".  It describes the
+dynamics of a system where a finite-length stroke is made within a viscous
+liquid, such as what you might do when creating [ink marbling
 patterns](https://en.wikipedia.org/wiki/Paper_marbling).  This seemed like
-a fun way to interact with my visualization, so I added support for it.
-It treats mouse movements as strokes, and the result can wind up feeling
-like finger painting using very surprising colors.  Here's an example,
-created by drawing a few spiral strokes in an existing image:
+a fun way to interact with my visualization, so I implemented support for
+it.  It treats mouse movements as strokes, and the result can wind up
+feeling like finger painting using very surprising colors.  Here's an
+example, created by drawing a few spiral strokes in an existing image:
 
 ![](images/50/stroke/0024517.png#center)
 
