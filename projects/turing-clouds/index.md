@@ -4,8 +4,7 @@ image: images/clouds.png
 
 ## Turing clouds
 
-This is my adaptation of [Jonathan McCabe's multi-scale Turing
-patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf)
+This is my adaptation of Jonathan McCabe's multi-scale Turing patterns
 which adds smooth color, interactivity, a new visualization style, and
 real-time rendering speed.
 
