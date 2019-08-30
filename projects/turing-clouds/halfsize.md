@@ -1,9 +1,9 @@
 
 # Turing clouds - images
 
-All images on this page are half-sized.  [Click here](fullsize.html) to see
-all full-sized images on a single page, or click any individual image to
-see it at full size.
+All images on this page are half-sized.  Click any individual image to see it
+at full size.  Images may be redistributed under the terms of the [CC BY-SA
+4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 ## Color rendering
 
@@ -93,7 +93,9 @@ data that generated it.
 
 [![](images/50/4d/0006230.png#center)](images/100/4d/0006230.png)
 [![](images/50/4d/0006229.png#center)](images/100/4d/0006229.png)
+
 ---
+
 [![](images/50/4d/0013619.png#center)](images/100/4d/0013619.png)
 [![](images/50/4d/0013618.png#center)](images/100/4d/0013618.png)
 
@@ -102,19 +104,27 @@ data that generated it.
 [![](images/50/4d/0024478.png#center)](images/100/4d/0024478.png)
 [![](images/50/4d/0024480.png#center)](images/100/4d/0024480.png)
 
+---
+
 [![](images/50/4d/0000425.png#center)](images/100/4d/0000425.png)
 [![](images/50/4d/0000424.png#center)](images/100/4d/0000424.png)
+
+---
 
 [![](images/50/4d/0002135.png#center)](images/100/4d/0002135.png)
 [![](images/50/4d/0002134.png#center)](images/100/4d/0002134.png)
 
+---
+
 [![](images/50/4d/0002399.png#center)](images/100/4d/0002399.png)
 [![](images/50/4d/0002398.png#center)](images/100/4d/0002398.png)
+
+---
 
 [![](images/50/4d/0002702.png#center)](images/100/4d/0002702.png)
 [![](images/50/4d/0002701.png#center)](images/100/4d/0002701.png)
 
-Some standalone examples of heatmaps:
+A couple more standalone examples of heatmaps:
 
 [![](images/50/4d/0001284.png#center)](images/100/4d/0001284.png)
 
@@ -136,3 +146,4 @@ These are some images of the color visualization with mouse movement added.
 
 [![](images/50/stroke/0073536.png#center)](images/100/stroke/0073536.png)
 
+## Back to the [main page](.).

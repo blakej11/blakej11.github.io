@@ -19,7 +19,10 @@ Here are some videos of the system in action.
 
 <iframe src="https://player.vimeo.com/video/356804717" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+&nbsp;
+
 <iframe src="https://player.vimeo.com/video/356831760" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 <iframe src="https://player.vimeo.com/video/356807696" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -34,8 +37,8 @@ Here are some videos of the system in action.
 ## Images
 
 These are some sample images created by the system. Click on any image to
-see it at full size. You can also see all images on a single page - in
-half-size [here](halfsize.html), and full size [here](fullsize.html).
+see it at full size. You can also see all images on a single page
+[here](halfsize.html).
 
 ### Color rendering
 
