@@ -1,64 +1,67 @@
 
-## Turing clouds - background and how it works
+## Turing clouds - how it works
 
-Since this system is built on top of several other ideas, it takes a while
-to cross all of the [inferential
-distance](https://wiki.lesswrong.com/wiki/Inferential_distance) when I'm
-talking about it in person.  So this is my attempt to explain it in more
-depth for those who want to understand how it works.
-
-It all starts with a paper that Alan Turing wrote in 1952.
+These are some of the ideas and other systems that went into creating Turing
+clouds.  It all starts with a paper that Alan Turing wrote in 1952.
 
 ### Turing's original model
 
-After Turing had established the foundations of computer science and
+After Turing had [established the foundations of computer
+science](https://en.wikipedia.org/wiki/Turing%27s_proof) and
 [helped break the German Enigma
 cipher](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma) during
 World War II, his interest turned to biology.  One of his last published
 papers was titled [The chemical basis of
 morphogenesis](https://doi.org/10.1098/rstb.1952.0012) (PDF
 [here](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)).
-This paper proposed a model for biological systems might develop striped or
-spotted patterns, such as on a zebra or a leopard.
+This paper proposed a model for how biological systems might develop striped
+or spotted patterns, such as those you see on a zebra or a leopard.
 
 To get the basic intuition behind Turing's model, imagine a flat surface
 with two chemicals, an "activator" and an "inhibitor", diffusing through
-across it at different rates.  (You can imagine this taking place in the
-real world across the skin of an animal.)  In locations where there is more
+across it at different rates.  You can imagine this taking place in the
+real world across the skin of an animal.  In locations where there is more
 of the activator than the inhibitor, the activator creates more of itself
 as well as more of the inhibitor, and it creates a different color (such as
 a black spot or stripe).  In locations where there is more of the inhibitor
 than the activator, some of each is destroyed, and no color change happens.
-Turing showed that this leads to regularly spaced patterns, with the
-details of the patterns depending on the exact diffusion rates.  As of
-2019, it hasn't been demonstrated that this is actually the model at work
-in any biological system, but it has been shown to work in a chemical
-system.
+
+Turing showed that this simple interaction of chemicals should lead to
+regularly spaced patterns, with the details of the patterns depending on
+the exact diffusion rates.  As of 2019, we don't know of any biological
+system where Turing's model is definitely the source of a pattern, but the
+model has been demonstrated to work in an actual chemical system.
 
 ### Jonathan McCabe's multi-scale patterns
 
 In 2010, Jonathan McCabe wrote a
 [paper](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf)
 describing a simple way to simulate Turing's model on a computer, and a
-tweak to that model that led to startling visual patterns.
+tweak to that model which led to startling visual patterns.
 
 The simulation follows the general format of a [reaction-diffusion
 system](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system).
 Create a grid of numbers, where each entry in the grid has a value between
 -1 and 1.  The value indicates the difference between the amount of
-activator and inhibitor chemical at that grid location.  The system evolves
-by simulating the diffusion, and then modeling the reaction of the diffused
-chemicals.  To simulate diffusion, take the average value of all grid
-locations within a fixed radius of a given cell; larger radii correspond to
-faster diffusion rates, because a cell's value is affecting a broader range
-of other cells.  In the Turing reaction, activators and inhibitors diffuse
-at different rates, which corresponds to taking averages over different
-radii.  To simulate the reaction, compare those two averages; if the result
-is positive, increase the current cell's value slightly, and if it's
-negative, decrease the cell's value slightly.  Finally, color each pixel
-based on the corresponding cell's new value: a value of -1 yields a black
-pixel, +1 yields a white one, and anything in between uses the
-corresponding greyscale value.
+activator and inhibitor chemicals at that grid location.  The system
+evolves by simulating the diffusion, and then modeling the reaction of the
+diffused chemicals.
+
+To simulate diffusion at a given cell, take the average value of all grid
+locations within a fixed radius of that cell.  Averaging over a larger
+radius corresponds to having a faster diffusion rate, because there are
+more cells contributing to the new value.  In the Turing reaction,
+activators and inhibitors diffuse at different rates, which corresponds to
+taking averages over different radii.
+
+To simulate the reaction, compare the averages from the simulated activator
+and inhibitor.  If the result is positive, increase the current cell's
+value slightly, and if it's negative, decrease the cell's value slightly.
+
+Once this has been done for all cells in the grid, the image can be
+generated.  Color each pixel in the image based on the corresponding cell's
+new value: a value of -1 yields a black pixel, +1 yields a white one, and
+anything in between uses the corresponding greyscale value.
 
 The following images are a few examples of this kind of system:
 
@@ -66,8 +69,8 @@ The following images are a few examples of this kind of system:
 |:---:|:---:|:---:|
 | ![](images/intro/bw-2scale-1.png) | ![](images/intro/bw-2scale-2.png) | ![](images/intro/bw-2scale-3.png) |
 
-McCabe also pointed out that instead of just looking at the results from a
-pair of radii, he proposed looking at more than one pair at once.  By
+McCabe also pointed out that instead of just looking at the results from
+one pair of radii, he proposed looking at more than one pair at once.  By
 running multiple virtual reactions on the same system (using different
 radii for each reaction), and adding the results together, you can get
 patterns that look like stripes made of spots.
@@ -82,7 +85,7 @@ characteristic example:
 
 ![](images/intro/bw-multiscale.png#center)
 
-### Adding color by using vectors
+### Thinking about color
 
 I was captivated when I discovered this system a couple years ago.  As with
 the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) back in
@@ -123,6 +126,8 @@ because it changes drastically from frame to frame.  Since I had already
 been aiming at creating an implementation that could create movies quickly,
 I decided that wasn't the approach for me.
 
+### Adding color by using vectors
+
 I decided to aim for a very straightforward extension of the multi-scale
 algorithm, by letting each cell have a vector of data rather than just a
 scalar, and reinterpreting the multi-scale algorithm to use vector
@@ -151,7 +156,7 @@ histograms of each axis weren't very elucidating, so I made a 2-D "heatmap"
 by projecting the 4-D data onto a plane, and using the pixel color to
 represent how many 4-D data points mapped onto a given point in the plane.
 Not only was this a useful debugging tool, it quickly became clear that the
-heatmap was at least as visually interesting as the color rendering itself.  
+heatmap was at least as visually interesting as the color rendering itself.
 The 4-D object that it shows bears some resemblance to a [strange
 attractor](https://en.wikipedia.org/wiki/Attractor), but it also shifts
 around in space as the system evolves.  The shifting, complex shape of
