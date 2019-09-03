@@ -204,11 +204,3 @@ These are some images of the color visualization with mouse movement added.
 [![](images/50/stroke/0066382.png#center)](images/100/stroke/0066382.png)
 
 [![](images/50/stroke/0073536.png#center)](images/100/stroke/0073536.png)
-
-&nbsp;
-
-If you've gotten this far, and you haven't read the description of [how it
-works](background.html), now might be the time!
-
-Contact: blakej@foo.net
-
