@@ -42,10 +42,12 @@ also described a tweak to that model which leads to startling visual
 patterns.
 
 The simulation follows the general format of a [reaction-diffusion
-system](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system).
-Create a grid of numbers, where each entry in the grid has a value between
--1 and 1.  The value can be thought of as the difference between the amount
-of activator and inhibitor chemicals at that grid location.  The system
+system](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system),
+and even more fundamentally, a [cellular
+automaton](https://en.wikipedia.org/wiki/Cellular_automaton).  Create a
+grid of numbers, where each entry in the grid has a value between -1 and 1.
+The value can be thought of as the difference between the amount of
+activator and inhibitor chemicals at that grid location.  The system
 evolves from one timestep to the next by simulating diffusion and then
 modeling the reaction of the diffused chemicals.
 

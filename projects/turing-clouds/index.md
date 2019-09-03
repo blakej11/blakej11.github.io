@@ -4,9 +4,14 @@ image: images/clouds.png
 
 ## Turing clouds
 
-This is my adaptation of Jonathan McCabe's multi-scale Turing patterns
-which adds smooth color, interactivity, a new visualization style, and
-real-time rendering speed.
+A Turing cloud is a complex and visually striking system that [evolves out
+of a simple set of rules](https://en.wikipedia.org/wiki/Cellular_automaton).
+It can be viewed either as a full-color image, or as a direct visualization
+of a set of four-dimensional data points. Turing clouds are fundamentally
+based on Jonathan McCabe's [Multi-Scale Turing
+Patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf);
+my implementation adds smooth color, interactivity, a new visualization
+style, and real-time rendering speed.
 
 I have a detailed description of [how it works](background.html), and you
 can look at the [code](https://github.com/blakej11/turing-clouds) as well.
@@ -42,7 +47,7 @@ timesteps.
 
 &nbsp;
 
-<!-- 1080p 4D goes here -->
+<iframe src="https://player.vimeo.com/video/357433326" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 &nbsp;
 
