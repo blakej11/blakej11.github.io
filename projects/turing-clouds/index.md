@@ -6,24 +6,24 @@ image: images/clouds.png
 
 A Turing cloud is a complex and visually striking system that [evolves out
 of a simple set of rules](https://en.wikipedia.org/wiki/Cellular_automaton).
-It can be viewed either as a full-color image, or as a direct visualization
+It can be viewed either as a full-color image, or as a heatmap visualization
 of a set of four-dimensional data points. Turing clouds are fundamentally
 based on Jonathan McCabe's [Multi-Scale Turing
 Patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf);
-my implementation adds smooth color, interactivity, a new visualization
-style, and real-time rendering speed.
+my implementation adds smooth color, interactivity, the heatmap
+visualization, and real-time rendering speed.
 
-I have a detailed description of [how it works](background.html), and you
+I have a detailed description of [how they work](background.html), and you
 can look at the [code](https://github.com/blakej11/turing-clouds) as well.
-But you might want to start by seeing what it does.
+But you might just want to start by seeing some.
 
 ## Videos
 
-Here are some videos of the system in action.
+Here are some videos of Turing clouds evolving.
 
-The first three are different views of one thing - starting the system with
-the random seed 14, and letting it evolve at 1440x720 resolution for 3600
-timesteps.
+The first three are all different views of the same thing - starting the
+system with the random seed 14, and letting it evolve at 1440x720
+resolution for 3600 timesteps.
 
 <iframe src="https://player.vimeo.com/video/356804717" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -39,9 +39,9 @@ timesteps.
 
 ---
 
-The next three are also different views of one thing - starting the system with
-the random seed 42, and letting it evolve at 1920x1080 resolution for 3600
-timesteps.
+The next three are also different views of one thing - starting the system
+with the random seed 42, and letting it evolve at 1920x1080 resolution for
+3600 timesteps.
 
 <iframe src="https://player.vimeo.com/video/356922295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -54,6 +54,8 @@ timesteps.
 <iframe src="https://player.vimeo.com/video/356932182" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 &nbsp;
+
+---
 
 ## Images
 
@@ -207,3 +209,6 @@ These are some images of the color visualization with mouse movement added.
 
 If you've gotten this far, and you haven't read the description of [how it
 works](background.html), now might be the time!
+
+Contact: blakej@foo.net
+
