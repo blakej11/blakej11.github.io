@@ -35,7 +35,7 @@ installation](standalone.html) of Turing clouds.
 
 ---
 
-The next three are all different views of the same thing - starting the
+The next three are all different views of a single thing - starting the
 system with the random seed 14, and letting it evolve at 1440x720
 resolution for 3600 timesteps.
 
