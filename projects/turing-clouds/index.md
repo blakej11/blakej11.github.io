@@ -1,5 +1,5 @@
 ---
-image: images/clouds.png
+image: projects/turing-clouds/images/clouds.png
 ---
 
 ## Turing clouds
