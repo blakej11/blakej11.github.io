@@ -216,8 +216,8 @@ These are some images of the color visualization with mouse movement added.
 
 [![](images/50/stroke/0024517.png#center)](images/100/stroke/0024517.png)
 
-[![](images/50/stroke/0031427.png#center)](images/100/stroke/0031427.png)
-
 [![](images/50/stroke/0066382.png#center)](images/100/stroke/0066382.png)
 
 [![](images/50/stroke/0073536.png#center)](images/100/stroke/0073536.png)
+
+[![](images/50/stroke/0031427.png#center)](images/100/stroke/0031427.png)
