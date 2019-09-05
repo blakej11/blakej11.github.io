@@ -4,8 +4,8 @@ image: images/clouds.png
 
 ## Turing clouds
 
-A Turing cloud is a complex and visually striking system that [evolves out
-of a simple set of
+A Turing cloud is a complex and visually striking system that [evolves over
+time](https://en.wikipedia.org/wiki/Dynamical_system) out of a simple set of
 rules](https://en.wikipedia.org/wiki/Cellular_automaton).  It can be viewed
 either as a full-color image, or as a [heatmap
 visualization](background.html#heatmap-visualization) of a set of
@@ -28,9 +28,14 @@ start by seeing some.
 
 ## Videos
 
-Here are some videos of Turing clouds evolving.
+The first video shows me playing with a [dedicated
+installation](standalone.html) of Turing clouds.
 
-The first three are all different views of the same thing - starting the
+<iframe src="https://player.vimeo.com/video/358003592" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+---
+
+The next three are all different views of the same thing - starting the
 system with the random seed 14, and letting it evolve at 1440x720
 resolution for 3600 timesteps.
 
