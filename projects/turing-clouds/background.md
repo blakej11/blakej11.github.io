@@ -161,7 +161,7 @@ use the angles from that coordinate system to generate values between 0 and
 1, and use those to set the
 [HSV](https://en.wikipedia.org/wiki/HSL_and_HSV) values of the pixel.
 
-### Visualizing the data directly
+### Heatmap visualization
 
 As I was playing with different ways to turn a vector into a color, I had
 several occasions where I wanted to look more directly at the data.  Simple
