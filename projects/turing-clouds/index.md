@@ -5,7 +5,7 @@ image: images/clouds.png
 ## Turing clouds
 
 A Turing cloud is a complex and visually striking system that [evolves over
-time](https://en.wikipedia.org/wiki/Dynamical_system) out of a simple set of
+time](https://en.wikipedia.org/wiki/Dynamical_system) out of a [simple set of
 rules](https://en.wikipedia.org/wiki/Cellular_automaton).  It can be viewed
 either as a full-color image, or as a [heatmap
 visualization](background.html#heatmap-visualization) of a set of
