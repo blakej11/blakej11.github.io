@@ -154,8 +154,9 @@ the original pattern, and I stuck with it.  Here's an example:
 ![](images/intro/color-render.png#center)
 
 If you're curious exactly how the colors are generated from the 4-D data,
-the [code](https://github.com/blakej11/zounds/tc/render.cl) describes it in
-detail. The summary is that I convert the 4-D data point into [hyperspherical
+the [code](https://github.com/blakej11/zounds/blob/master/tc/render.cl)
+describes it in detail. The summary is that I convert the 4-D data point into
+[hyperspherical
 coordinates](https://en.wikipedia.org/wiki/N-sphere#Spherical_coordinates),
 use the angles from that coordinate system to generate values between 0 and
 1, and use those to set the
