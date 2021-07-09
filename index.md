@@ -7,7 +7,7 @@ Some generative art projects that I've made.
 | | |
 |:---:|:---:|
 | [![](projects/life/icon.png)](projects/life/) |
-| [2021-07-09: Life in `wgpu`](projects/life/) |
+| [2021-07-09: Life in wgpu](projects/life/) |
 | [![](projects/turing-clouds/icon.png)](projects/turing-clouds/) | [![](projects/bz/icon.png)](projects/bz/) |
 | [2019-09-04: Turing clouds](projects/turing-clouds/) | [2019-07-17: BZ reaction simulator](projects/bz/) |
 | [![](projects/50-circles/icon.png)](projects/50-circles/) | [![](projects/glass/icon.png)](projects/glass/) |
