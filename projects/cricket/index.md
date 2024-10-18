@@ -1,7 +1,7 @@
 
 ## Fire crickets
 
-[![](huckleberry-small.png)](huckleberry-large.png)
+[![](huckleberry-small.jpg)](huckleberry-large.jpg)
 
 This project was inspired by a walk that I took in [Huckleberry Botanic Regional Preserve](https://www.ebparks.org/parks/huckleberry) in 2021. As we were walking down a path into the valley at sunset, the forest started coming alive with crickets and other little forest creatures in the bushes and the trees. It was very clear that all of the sounds came from individual creatures, and I could hear the sounds shifting relative to me as I walked down the path. This is not a kind of experience I get to have very often, in a world where sound comes from headphones and speakers, and I wanted more people to be able to experience it.
 
